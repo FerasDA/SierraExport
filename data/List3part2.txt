@@ -1,0 +1,54 @@
+OCLC # = 828860363.
+CALL # = CD2331 .D34 2010.
+TITLE =  al-Daftar Khānah : Dār al-Maḥfūẓāt al-ʻUmūmīyah / taqdīm Yusuf Buṭrus Ghālī, Ismāʻīl Sirāj al-Dīn ; taḥrīr Khālid ʻAzab ; shāraka fī al-iʻdād Ayman Manṣūr, Muḥammad al-Sayyid Ḥamdī, Muḥammad Ḥijāzī
+IMPRINT =  al-Iskandarīyah : Maktabat al-Iskandarīyah, 2010
+SUBJECT =  Dār al-Maḥfūẓāt al-ʻUmūmīyah (Cairo, Egypt)
+SUBJECT = Archives Egypt History
+SUBJECT = Egypt History Sources
+
+OCLC # = 827724622.
+CALL # = DT107.87 .T438 2012.
+TITLE =  al-Thawrah wa-al-dawlah wa-al-dīmuqrāṭīyah / taḥrīr Muḥammad al-ʻArabī
+IMPRINT =  [al-Iskandarīyah] : Maktabat al-Iskandarīyah, Idārat al-Mashrūʻāt al-Khāṣṣah, [2012]
+SUBJECT = Egypt Politics and government 21st century
+SUBJECT = Egypt History Protests, 2011-
+
+OCLC # = 839686888.
+CALL # = JC574.2.E3 T36 2012.
+TITLE =  Taqrīr al-ḥālah al-lībrālīyah fī Miṣr / Ṭāriq ʻUthmān
+IMPRINT =  al-Qāhirah : al-Markaz al-ʻArabī lil-Dirāsāt al-Insānīyah, [2012]
+SUBJECT = Liberalism Egypt History 21st century
+SUBJECT = Egypt Politics and government 21st century
+
+OCLC # = 839886298.
+CALL # = JC599.A73 T34 2012.
+TITLE =  Taḥawwulāt al-amn : ʻaṣr al-tahdīdāt ghayr al-taqlīdīyah fī al-minṭaqah al-ʻArabīyah / taḥrīr Muḥammad ʻAbd al-Salām, Īmān Rajab
+IMPRINT =  al-Qāhirah : Markaz al-Dirāsāt al-Siyāsīyah wa-al-Istirātījīyah, 2012
+SUBJECT = Human security Arab countries
+SUBJECT = National security Arab countries
+SUBJECT = Internal security Arab countries
+
+OCLC # = 841167105.
+CALL # = JQ3847 .M85 2012.
+TITLE =  al-Mujtamaʻ al-madanī fī Miṣr : jadal al-ḥiṣār wa-al-masār : dirāsāt wa-abḥāth, 2012 / D. Īmān Ḥasan, baḥth raʼīsī ; Ilhāmī al-Marghanī, Jamāl Naṣṣār, Ṣābir Nāʼil, Ṣabrī Muḥammad, ʻĀṭif al-Najmī, ʻIṣām al-Dīn Ḥasan, Muḥammad ʻAjjātī, Yusrī Muṣṭafá ; murājaʻah wa-taḥrīr Ḥajjāj Nāyil, ʻAmr Mughīth
+IMPRINT =  al-Qāhirah : al-Barnāmaj al-ʻArabī li-Nushaṭāʼ Ḥuqūq al-Insān : al-Markaz al-Dawlī li-Qawānīn Munaẓẓamāt al-Mujtamaʻ al-Madanī, 2012
+SUBJECT = Civil society Egypt Congresses
+SUBJECT = Democracy Egypt Congresses
+SUBJECT = Non-governmental organizations Egypt Congresses
+SUBJECT = Political participation Egypt Congresses
+
+OCLC # = 827086524.
+CALL # = PJ8210 .A24 2012.
+TITLE =  Abḥāth al-shiʻr al-Miṣrī al-muʻāṣir / iʻdād nukhbah min al-baḥithīn
+IMPRINT =  al-Qāhirah : al-Majlis al-Aʻlá lil-Thaqāfah, 2012
+SUBJECT = Arabic poetry Egypt History and criticism
+SUBJECT = Arabic poetry 20th century History and criticism
+
+OCLC # = 839686059.
+CALL # = PJ6101 .I33 2012.
+SUBJECT = Ibn Yaʻīsh, Yaʻīsh ibn ʻAlī, 1158-1245, author
+TITLE =  Sharḥ al-Mulūkī fī al-Taṣrīf / lil-Shaykh Muwaffaq al-Dīn Yaʻīsh ibn Abī ibn Yaʻīsh al-Ḥalabī ; ḥaqqaqahu wa-ʻallaqa ʻalayhi Muḥammad Ḥusayn ʻAbd al-ʻAzīz al-Maḥraṣāwī
+IMPRINT =  al-Qāhirah : Dār al-Kutub wa-al-Wathāʼiq al-Qawmīyah, 2012
+SUBJECT = Arabic language Grammar
+SUBJECT =  Ibn Jinnī, Abū al-Fatḥ ʻUthmān, -1002. Taṣrīf al-mulūkī
+

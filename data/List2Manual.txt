@@ -1,0 +1,10 @@
+OCLC # = ﻿744665854.
+CALL # = BX394 .M87 2007.
+TITLE = Musāhamat al-muʼarrikhīn al-Urthūdhuks fī al-taʼrīkh : aʻmāl al-muʼtamar al-munʻaqid fī Dayr Sayyidat al-Balamand al-Baṭriyarkī, 12-14 Ādhār 2007
+IMPRINT = [Kūrah, Lebanon] : Jāmiʻat al-Balamand, Maʻhad al-Tārīkh wa-al-Āthār wa-Dirāsāt al-Sharq al-Adná, [2007]
+SUBJECT = Orthodox Eastern Church members History Congresses
+SUBJECT = Orthodox Eastern Church members Lebanon Biography Congresses
+SUBJECT = Orthodox Eastern Church members Syria Biography Congresses
+SUBJECT = Lebanon Historiography Congresses
+SUBJECT = Middle East Historiography Congresses
+

@@ -1,0 +1,2040 @@
+OCLC # = ﻿827553264.
+CALL # = AC106 .A28 2012.
+AUTHOR =  Abū Zayd, Sāmīah, author
+TITLE =  Hal saqaṭa al-ilāh / Sāmīyah Abū Zayd
+IMPRINT =  al-Qāhirah : Dār Uktub lil-Nashr wa-al-Tawzīʻ, 2012
+
+OCLC # = 785790972.
+CALL # = AC106 .B5598 2012.
+AUTHOR =  Bin-ʻAbd al-ʻĀlī, ʻAbd al-Salām
+TITLE =  Ḥarakat al-kitābah / ʻAbd al-Salām Bin-ʻAbd al-ʻĀlī
+IMPRINT =  al-Dār al-Bayḍāʼ : Dār Tūbqāl lil-Nashr, 2012
+
+OCLC # = 821640713.
+CALL # = B753.I34 H36 2011.
+AUTHOR =  Ḥanashī, Muḥammad ʻUmrānī
+TITLE =  Madrasat Ibn Ḥazm al-Ūrūbbīyah fī al-naqd al-tārīkhī lil-kutub al-muqaddasah : risālah fī al-tasāmuḥ al-dīnī  / li-Muḥammad ʻUmrānī Ḥanashī
+IMPRINT =  al-Rabāṭ : Muḥammad ʻUmrānī Ḥanashī, 2011 (al-Rabāṭ : Ṭūb Barīs)
+SUBJECT = Ibn Ḥazm, ʻAlī ibn Aḥmad, 994-1064 Influence
+SUBJECT = Civilization, Western Islamic influences
+SUBJECT = Civilization, Western Philosophy
+SUBJECT = Islamic philosophy
+
+OCLC # = 664116893.
+CALL # = B820.3 .N37 2010.
+AUTHOR =  Nāshif, Ismāʻīl
+TITLE =  al-ʻAtabah fī fatḥ al-ibistīm / Ismāʻīl Nāshif
+IMPRINT =  Rām Allāh : Muwāṭin, al-Muʼassasah al-Filasṭīnīyah li-Dirāsat al-Dīmuqrāṭīyah, 2010
+SUBJECT = Epistemics
+SUBJECT = Knowledge, Theory of
+SUBJECT = Palestine Intellectual life
+SUBJECT = Modernism (Aesthetics)
+
+OCLC # = 824420190.
+CALL # = B5361 .G38 2011.
+AUTHOR =  Gaṭṭ, Bū Salhām
+TITLE =  Taʼammulāt fī majāl falsafat al-ʻawdah-- !?! / Būsalhām al-Kaṭṭ
+IMPRINT =  [Morocco] : [publisher not identified], 2011
+IMPRINT =  al-Qunayṭirah, al-Maghrib : al-Maṭbaʻah al-Sarīʻah, 2011
+SUBJECT = Philosophy Morocco
+SUBJECT = Philosophy, Arab
+
+OCLC # = 824493515.
+CALL # = BJ1291 .B35 2011.
+AUTHOR =  Balāṭunusī, Muḥammad ibn ʻAbd Allāh, 1395 or 6-1459, author
+TITLE =  Bughyat al-ṭālibīn wa-khulāṣat minhāj al-ʻābidīn / taʼlīf Shams al-Dīn al-Balāṭunusī, Muḥammad ibn ʻAbd Allāh ibn Khalīl ; dirāsah wa-taḥqīq al-Muṣṭafá al-Ghufayrī
+IMPRINT =  [Casablanca] : [publisher not identified], 2011
+IMPRINT =  Marrākush : Maṭbaʻah wa-al-Warāqah al-Waṭanīyah, 2011
+SUBJECT = Islamic ethics Early works to 1800
+SUBJECT = Religious life Islam Early works to 1800
+SUBJECT = Sufism Early works to 1800
+
+OCLC # = 811355531.
+CALL # = BL65.P7 D567 2011.
+AUTHOR =  al-Dīn wa-al-siyāsah min manẓūr falsafī / taḥta ishrāf Muḥammad al-Miṣbāḥī
+IMPRINT =  al-Dār al-Bayḍāʼ : Muʼassasat al-Malik ʻAbd al-ʻAzīz ; al-Rabāṭ : Kullīyat al-Ādāb wa-al-ʻUlūm al-Insānīyah, 2011
+SUBJECT = Religion and politics
+SUBJECT = Political science Philosophy
+SUBJECT = Religion and state
+SUBJECT = Islam and politics
+
+OCLC # = 826195633.
+CALL # = BP1 .R57.
+AUTHOR =  Risālah (Selangor)
+TITLE =  al-Risālah : Majallah akādīmīyah sanawīyah muḥakkamah / iʻdād Jamʻīyat Ṭalabat al-Dirāsāt al-ʻUlyā wa-Markaz al-Dirāsāt al-ʻUlyā, al-Jāmiʻah al-Islāmīyah al-ʻĀlamīyah bi-Malīzīyā
+SUBJECT = Selangor, Malīzīyā : Jamʻīyat Ṭalabat al-Dirāsāt al-ʻUlyā wa-Markaz al-Dirāsāt al-ʻUlyā, al-Jāmiʻah al-Islāmīyah al-ʻĀlamīyah bi-Malīzīyā
+SUBJECT = Islam Periodicals
+SUBJECT = Islam Study and teaching Periodicals
+VOLUME = v.9
+VOLUME = v.8
+VOLUME = v.7
+VOLUME = v.6
+
+OCLC # = 825820765.
+CALL # = BP10.J383 A28 2012.
+AUTHOR =  Abū Khalīl, Haytham, author
+TITLE =  Ikhwān iṣlāḥīyūn / Haytham Abū Khalīl
+IMPRINT =  al-Qāhirah : Dār Dawwin lil-Nashr wa-al-Tawzīʻ, 2012
+SUBJECT =  Jamʻīyat al-Ikhwān al-Muslimīn (Egypt)
+
+OCLC # = 823121691.
+CALL # = BP10.J383 K437 2012.
+AUTHOR =  Kharabāwī, Tharwat
+TITLE =  Sirr al-maʻbad : al-asrār al-khafīyah li-Jamāʻat al-Ikhwān al-Muslimīn / taʼlīf Tharwat al-Kharabāwī
+IMPRINT =  al-Jīzah [Cairo] : Dār Nahḍat Miṣr, 2012
+SUBJECT =  Jamʻīyat al-Ikhwān al-Muslimīn (Egypt)
+SUBJECT = Egypt Politics and government
+
+OCLC # = 824512424.
+CALL # = BP60 .W37 2011.
+AUTHOR =  Waryāghilī, Khālid, 1984-2008, author
+TITLE =  Fiqh al-iṣlāḥ ʻinda al-Mālikīyah : Alfīyah al-faqīh al-Hibṭī namūdhajan / Khālid al-Waryāghilī al-Ṭawīl
+SUBJECT = [Ṭanjah] : [publisher not identified], 2011
+IMPRINT =  Ṭanjah : Silīkī Ikhwān, 2011
+SUBJECT = Islamic renewal
+SUBJECT = Malikites
+SUBJECT =  Hibṭī, ʻAbd Allāh ibn Muḥammad, d. 1555 or 6. Alfīyah al-sunnīyah fī tanbīh al-khāṣṣah wa-al-ʻāmmah ʻalá mā awqaʻū min al-taghyīr fī al-millah al-Islāmīyah
+
+OCLC # = 827338894.
+CALL # = BP64.T7 B37 2013.
+AUTHOR =  Bashīr, ʻAbd al-Raḥmān, author
+TITLE =  Min tārīkh Tūnis al-Islāmī : Ifrīqīyah al-Islāmīyah : dirāsāt ijtimāʻīyah wa-al-iqtiṣādīyah / taʼlīf ʻAbd al-Raḥmān Bashīr
+IMPRINT =  al-Haram : ʻAyn lil-Dirāsāt wa-al-Buḥūth al-Insānīyah wa-al-Ijtimāʻīyah, 2013
+SUBJECT = Islam Tunisia History
+SUBJECT = Islam Africa, North History
+
+OCLC # = 767960761.
+CALL # = BP65.F8 S85 2011.
+AUTHOR =  Sukayrij, Aḥmad bin al-ʻAyyāshī, 1878 or 9-1943 or 4
+TITLE =  al-Riḥlah li-tadshīn Masjid Bārīs / li-Sayyidī Aḥmad ibn al-Ḥājj al-ʻAyyāshī Sukayrij al-Khazrajī al-Anṣārī ; dirāsat wa-taḥqīq Muḥammad al-Rāḍī Kannūn al-Ḥasanī al-Idrīsī
+IMPRINT =  al-Rabāṭ : Dār al-Āmān lil-Tawzīʻ, [2011]
+IMPRINT =  Sukayrij, Aḥmad bin al-ʻAyyāshī, 1878 or 9-1943 or 4 Travel France Paris
+SUBJECT = Mosquée de Paris
+SUBJECT = Mosques France Paris
+
+OCLC # = 774493460.
+CALL # = BP70 .S85 2011.
+AUTHOR =  Sukayrij, Aḥmad bin al-ʻAyyāshī, 1878 or 9-1943 or 4
+TITLE =  Qdam al-rusūkh, fīmā li-muʼallifahu min al-shuyūkh / li-sīdī Aḥmad bin al-ʻAyyāshī Sukayrij al-Khazrajī al-Anṣārī ; dirasah wa-taḥqīq Muḥammad al-Rāḍī Kannūn al-Ḥasanī al-Idrīsī
+IMPRINT =  al-Rabāṭ : Dār al-Amān lil-Nashr wa-al-Tawzīʻ, [2011?]
+SUBJECT = Muslim scholars Africa, North Biography
+SUBJECT = Ulama Africa, North Biography
+SUBJECT = Tijānīyah
+SUBJECT =  Sukayrij, Aḥmad bin al-ʻAyyāshī, 1878 or 9-1943 or 4
+
+OCLC # = 824509521.
+CALL # = BP76.8 .H87 2009.
+AUTHOR =  Ḥusaynī, Muṣṭafá bin al-Ḥājj ʻAbbās, author
+TITLE =  Dawḥat al-majd al-shadhīyah fī al-taʻrīf bi-al-usrah al-sharīfah al-Ṣiqillīyah fī Banī Yakhlif wa-Dakālah al-gharbīyah / Muṣṭafá bin al-Ḥājj ʻAbbās al-Ḥusaynī al-ʻUthmānī ; taqdīm ʻAbd al-Ilāh Abū Mārīyah
+IMPRINT =  Safi : Jamʻīyat Āsīf li-ḥimāyat al-Turāth al-Thaqāfī wa-al-Miʻmārī, 2009
+SUBJECT = Muḥammad, Prophet, -632 Family
+
+OCLC # = 642662752.
+CALL # = BP80.I89 B56 2009.
+AUTHOR =  Bin Sharīfah, Muḥammad
+TITLE =  al-Qāḍī ʻIyāḍ : sīrah mūjazah / Muḥammad Bin Sharīfah
+IMPRINT =  Murrākush : Jāmiʻat al-Qāḍī ʻIyāḍ, 2009 (Murrākush : al-Maṭbaʻah wa-al-Warraqah al-Waṭanīyah)
+SUBJECT = ʻIyāḍ ibn Mūsá, 1083-1149 Criticism and interpretation
+SUBJECT = Muslim scholars Biography Early works to 1800
+SUBJECT = Muslim scholars Morocco Biography Early works to 1800
+SUBJECT = Judges (Islamic law) Morocco Biography Early works to 1800
+
+OCLC # = 824174766.
+CALL # = BP80.L33 B89 2011.
+AUTHOR =  Būziyān, Bin-ʻAlī Muḥammad, author
+TITLE =  Barnāmaj Abī Jaʻfar al-Lablī al-Andalusī, 613-691 H / dirāsah wa-taḥqīq Muḥammad Būzīyān Binʻalī
+SUBJECT = [Morocco] : [publisher not identified], [2011]
+IMPRINT =  Ṭanjah : Maṭbaʻat Isbārṭīl, [2011]
+IMPRINT =  Lablī, Aḥmad ibn Yūsūf, d. 1291 or 2
+SUBJECT = Muslim scholars Biography Early works to 1800
+SUBJECT = Ulama Biography Early works to 1800
+
+OCLC # = 824359537.
+CALL # = BP80.S23 A43 2011.
+AUTHOR =  ʻAlawī, ʻAlī bin al-Sharīf, author
+TITLE =  Nasīm al-zahr al-marʻī fī manāqib Mawlāy Aḥmad bin Muḥammad bin al-Ḥasan al-Sabʻī / Mawlāy ʻAlī al-Sharīf al-Zakī al-ʻAlawī
+IMPRINT =  [Morocco] : al-Mandūbīyah al-Sāmīyah li-Qudamāʼ al-Muqāwimīn wa-Aʻḍāʼ Jaysh al-Taḥrīr, 2011
+SUBJECT =  Sabʻī, Aḥmad bin Muḥammad bin al-Ḥasan, 1825-1893
+SUBJECT = Sufis Morocco Biography
+SUBJECT = Darqāwā Morocco
+
+OCLC # = 823603114.
+CALL # = BP80.S85 S85 2011.
+AUTHOR =  Sukayrij, Muḥammad bin al-Ḥājj al-ʻAyyāshī, 1875-1965, author
+TITLE =  Muqtaṭafāt min Rasāʼil al-ʻAllāmah Sīdī Muḥammad bin al-Ḥājj al-ʻAyyāshī Sukayrij al-Khazrajī al-Anṣārī / dirāsat wa-taḥqīq Muḥammad al-Rāḍī Kannūn al-Ḥasanī al-Idrīsī
+SUBJECT = [Rabat] : [publisher not identified], [2011]
+SUBJECT = al-Rabāṭ : Ariani Print, [2011]
+IMPRINT =  Sukayrij, Muḥammad bin al-Ḥājj al-ʻAyyāshī, 1875-1965 Correspondence
+SUBJECT = Ulama Morocco Biography
+
+OCLC # = 774493136.
+CALL # = BP80.T853 S253 2011.
+AUTHOR =  Tujībī. Muḥammad ibn ʻAbd al-Raḥmān, 1145-1213 or 14
+TITLE =  Barnāmaj al-Ḥāfiẓ Abī ʻAbd Allāh Muḥammad ibn ʻAbd al-Raḥmān al-Tujībī / dirāsat wa-taḥqīq al-Ḥasan Idd Saʻīd
+IMPRINT =  [Rabat] : Wizārat al-Awqāf wa-al-Shuʼūn al-Islāmīyah, 2011
+SUBJECT = Sufism Early works to 1800
+IMPRINT =  Tujībī. Muḥammad ibn ʻAbd al-Raḥmān, 1145-1213 or 14
+
+
+OCLC # = 823509173.
+CALL # = BP128.97 .B56 2012.
+AUTHOR =  Binshaqrūn, Riḍwān, author
+TITLE =  al-Akhlāq al-ijtimāʻīyah al-bānīyah fī Sūrat al-ḥujarāt / Riḍwān ibn Shaqrūn
+IMPRINT =  [Casablanca?] : [producer not identified], 2012
+IMPRINT =  al-Dār al-Bayḍāʼ : Maṭbaʻat al-Najāḥ al-Jadīdah, 2012
+SUBJECT = Qurʼan. Sūrat al-Ḥujurāt Criticism, interpretation, etc
+SUBJECT = Muslims Conduct of life
+SUBJECT = Islamic ethics
+SUBJECT = Social ethics
+
+OCLC # = 824957110.
+CALL # = BP130.4 .U23 2013.
+AUTHOR =  ʻUbayd, ʻAbd al-Ẓāhir ʻAbd al-Bārī ʻAlī, author
+TITLE =  Daʻwat al-Qurʼān al-karīm ilá tawḥīd al-ṣaff wa-ijtimāʻ al-kalimah / taʼlīf ʻAbd al-ẓāhir ʻAbd al-Bārī ʻAlī ʻUbayd
+IMPRINT =  al-Qāhirah : Dār al-ʻĀlam al-ʻArabī, 2013
+SUBJECT = Qurʼan Criticism, interpretation, etc
+SUBJECT = Interpersonal relations Religious aspects Islam
+SUBJECT = Muslims Conduct of life
+
+OCLC # = 824796642.
+CALL # = BP130.45 .I26 2011.
+AUTHOR =  Ibn al-ʻArabī, Muḥammad ibn ʻAbd Allāh, 1076-1148, author
+TITLE =  Muqaddimat aḥkām al-Qurʼān / li-Ibn al-ʻArabī allatī fuqida sāʼirahā min ṭabaʻāt al-kitāb ; qirāʼah wa-taʻlīq ʻAbd al-Razzāq Harmās
+IMPRINT =  [Casablanca?] : [publisher not identified], 2011
+IMPRINT =  al-Dār al-Bayḍāʼ : Maṭbaʻat al-Najāḥ al-Jadīdah, 2011
+SUBJECT = Qurʼan Criticism, interpretation, etc
+
+OCLC # = 826018830.
+CALL # = BP130.73 .H87 2011.
+AUTHOR =  Ḥusayn, Naṣr al-Dīn Ibrāhīm Aḥmad, 1956- author
+TITLE =  al-Khiṭāb al-balāghī wa-ʻalāqatuh bi-al-dars al-Qurʼānī wa-al-adabī : dirāsāt taḥlīlīyah / taḥrīr al-Duktūr Naṣr al-Dīn Ibrāhīm Aḥmad Ḥusayn
+IMPRINT =  [Kuala Lumpur] : IIUM Press, 2011
+SUBJECT = Qurʼan Evidences, authority, etc
+SUBJECT = Qurʼan Language, style
+SUBJECT = Qurʼan Criticism, interpretation, etc
+
+OCLC # = 826025145.
+CALL # = BP130.73 .H878 2011.
+AUTHOR =  Ḥusayn, Naṣr al-Dīn Ibrāhīm Aḥmad, 1956-
+TITLE =  Wujūh al-iʻjāz fī al-khiṭāb al-uslūbī wa-al-maʻrifī lil-Qurʼān al-Karīm / Naṣr al-Dīn Ibrāhīm Aḥmad Ḥusayn
+SUBJECT = Kuala Lumpur : IIUM Press, 2011
+SUBJECT = Qurʼan Evidences, authority, etc
+SUBJECT = Qurʼan Language, style
+SUBJECT = Qurʼan Criticism, interpretation, etc
+
+OCLC # = 824363623.
+CALL # = BP131.13 .H35 2011.
+AUTHOR =  Ḥajwī, Muḥammad ibn al-Ḥasan, author
+TITLE =  Ḥukm tarjamat al-Qurʼān al-ʻaẓīm / lil-ʻAllāmah Muḥammad ibn al-Ḥasan al-Ḥajwī al-Maghribī ; dirāsah wa-taḥqīq Muḥammad al-Tamsamānī al-Idrīsī wa-maʻahu Tārīkh ḥarakat tarjamat maʻānī al-Qurʼān al-Karīm min qabl al-mustashriqīn wa-dawāfiʻahā, wa-khaṭarihā min taʼlīf muḥaqqiq al-kitāb
+IMPRINT =  [Tétouan] : [publisher not identified], 2011
+IMPRINT =  Tiṭwān : Maṭābiʻ al-Shuyūkh, 2011
+SUBJECT = Qurʼan Translating Criticism, interpretation, etc
+SUBJECT = Qurʼan Language, style
+
+OCLC # = 774493417.
+CALL # = BP131.5 .D18337 2011.
+AUTHOR =  Māliqī, ʻAbd al-Wāḥid ibn Muḥammad, d. 1306
+TITLE =  al-Durr al-nathīr wa-al-ʻadhb al-namīr fī sharḥ al-Taysīr / taʼlīf Abī Muḥammad ʻAbd al-Wāḥid ibn Abī al-Saddād al-Māliqī ; dirāsat wa-taḥqīq Muḥammad Būṭarbūsh
+IMPRINT =  [al-Rabat] : Wizārat al-Awqāf wa-al-Shuʼūn al-Islāmīyah bi-al-Mamlakah al-Maghribīyah, 2011
+IMPRINT =  Dānī, ʻUthmān ibn Saʻīd, 981 or 2-1053. Taysīr fī al-qirāʼāt al-sabʻ
+SUBJECT = Qurʼan Readings
+VOLUME = v.2
+VOLUME = v.1
+
+OCLC # = 759991066.
+CALL # = BP131.5 .I2056 2007.
+AUTHOR =  Ibn al-Qāḍī, ʻAbd al-Raḥmān ibn Abī al-Qāsim, 1590 or 91-1671 or 2
+TITLE =  al-Fajr al-sāṭiʻ wa-al-ḍiyāʼ al-lāmiʻ fī sharḥ al-Durar al-lawāmiʻ / li-Abī Zayd ʻAbd al-Raḥmān ibn al-Qāḍī ; dirāsat wa-taḥqīq Aḥmad ibn Muḥammad al-Būshikhī
+IMPRINT =  [Casablanca : s.n.], 2007 (Marrākush : Maṭbaʻah wa-al-Warāqah al-Waṭanīyah)
+SUBJECT =  Ibn Barrī, ʻAlī ibn Muḥammad, ca. 1261-ca. 1330. Durar al-lawāmiʻ fī aṣl maqriʼ al-Imām Nāfiʻ
+SUBJECT =  Qāriʼ, Nāfiʻ ibn ʻAbd al-Raḥmān, d. 785 or 6
+SUBJECT = Qurʼan Readings Early works to 1800
+SUBJECT = Qurʼan Language, style Early works to 1800
+VOLUME = v.4
+VOLUME = v.3
+VOLUME = v.2
+VOLUME = v.1
+
+OCLC # = 823517358.
+CALL # = BP135.A128 I258 2011.
+AUTHOR =  Ibn al-Shāṭṭ, Qāsim ibn ʻAbd Allāh, 1245 or 6-1323, author
+TITLE =  al-Ishrāf ʻalá aʻlá sharaf fī al-taʻrīf bi-rijāl sanad al-Bukhārī min ṭarīq al-Sharīf Abī ʻAlī ibn Abī al-Sharaf / taṣnīf al-Qāsim ibn ʻAbd Allāh ibn al-Shāṭṭ ; dirāsat wa-taḥqīq Ismāʻīl al-Khaṭīb
+SUBJECT = 8800-03 [Tétouan] : [publisher not identified], 2011
+IMPRINT =  Tiṭwān : Maṭābiʻ al-Shuyūkh, 2011
+SUBJECT =  Bukhārī, Muḥammad ibn Ismāʻīl, 810-870. Jāmiʻ al-ṣaḥīḥ
+SUBJECT = Hadith Authorities
+
+OCLC # = 823519769.
+CALL # = BP135 .H36 2011.
+AUTHOR =  Ḥanashī, Muḥammad ʻUmrānī, author
+TITLE =  Ishkālāt al-muṣṭalaḥ fī ʻulūm al-ḥadīth / taʼlīf al-duktūr Muḥammad ʻUmrānī Ḥanashī
+IMPRINT =  [Rabat] : [publisher not identified], 2011
+IMPRINT =  al-Rabāṭ : Ṭūb Barīs, 2011
+SUBJECT = Hadith Terminology
+SUBJECT = Hadith Criticism, interpretation, etc
+
+OCLC # = 824910147.
+CALL # = BP135 .J39 2012.
+AUTHOR =  Jāwīsh, Saʻd Saʻd, author
+TITLE =  Qaḍāyā ḥadīthīyah / Saʻd Saʻd Jāwīsh
+IMPRINT =  al-Qāhirah : Dār al-Baṣāʼir, 2012
+SUBJECT = Hadith Criticism, interpretation, etc
+SUBJECT = Hadith Texts
+
+OCLC # = 824525424.
+CALL # = BP135 .Y87 2012.
+AUTHOR =  Yūsuf, ʻAbd al-Raḥmān Muḥammad, 1969-
+TITLE =  al-Qurʼānīyūn fī Miṣr wa-mawqif al-Islām minhum / ʻAbd al-Raḥmān Muḥammad Muḥammad Yūsuf ; [taqdīm ʻAbd al-Mahdī ʻAbd al-Qādir ʻAbd al-Hādī]
+IMPRINT =  al-Qāhirah : Dār al-Bayān, [2012]
+SUBJECT = Hadith History
+SUBJECT = Hadith Evidences, authority, etc. History of doctrines
+SUBJECT = Qurʼan Evidences, authority, etc. History of doctrines
+SUBJECT = Hadith Relation to the Qurʼan
+SUBJECT = Islam Doctrines History
+
+OCLC # = 823755530.
+CALL # = BP136.4 .H36 2011.
+AUTHOR =  Ḥanashī, Muḥammad ʻUmrānī, author
+TITLE =  al-Handasah al-ḥadīthīyah : al-sullam al-miʻyār li-qiyās darajat wuthūqīyat al-naql lil-Ḥadīth al-Nabawī al-sharīf / lil-duktūr Muḥammad ʻUmrānī Ḥanashī
+IMPRINT =  [Rabat] : [publisher not identified], 2011
+IMPRINT =  al-Rabāṭ : Ṭūb Barīs, 2011
+SUBJECT = Hadith Evidences, authority, etc
+SUBJECT = Hadith Criticism, interpretation, etc
+
+OCLC # = 823226902.
+CALL # = BP137.5.K5 M33 2011.
+AUTHOR =  Māʼ al-ʻAynayn ibn Muḥammad Fāḍil ibn Māmayn, 1831-1910, author
+TITLE =  al-Sayf wa-al-Mūsá ʻalá qaḍīyat al-Khiḍr wa-Mūsá / Māʼ al-ʻAynayn ; taqdīm Muḥammad Māʼ al-ʻAynayn al-Shaykh Ṭālib al-Akhyār ; taḥqīq Muḥammad al-Ẓarīf
+IMPRINT =  al-Rabāṭ : Muʼassasat al-Shaykh Mabrīh Rabbihi li-Iḥyāʼ al-Turāth wa-al-Tabādul al-Thaqāfī, 2011
+SUBJECT = Khiḍr (Legendary character)
+SUBJECT = Islamic legends
+SUBJECT = Moses (Biblical leader) In the Qurʼan
+SUBJECT = Moses (Biblical leader) Islamic interpretations
+SUBJECT = Qurʼan. Sūrat al-Kahf Criticism, interpretation, etc
+
+OCLC # = 823731115.
+CALL # = BP161.3 .L37 2011.
+AUTHOR =  Laqqāḥ, Muḥammad, author
+TITLE =  Tafkīr Muslim muʻāṣir : qirāʼah naqdīyah fī kitāb Muḥammad Ṭālbī / Muḥammad Laqqāḥ
+IMPRINT =  [Oujda?] : [publisher not identified], 2011
+IMPRINT =  Wajdah : Sharikat Maṭābiʻ al-Anwār al-Maghāribīyah, 2011
+SUBJECT = Talbi, Mohamed, 1920- Réflexion d'un musulman contemporain
+SUBJECT = Islam
+SUBJECT = Muslims
+
+OCLC # = 825776278.
+CALL # = BP161.3 .N35 2012.
+AUTHOR =  Najjār, Aḥmad, author
+TITLE =  ʻAqlanat al-wāqiʻ al-Islāmī : azmat al-khiṭāb al-dīnī bayna jumūd al-uṣūlīyah.. wa-ghumūḍ al-ʻilmānīyah.. wa-ṭams al-huwīyah / al-mustashār Aḥmad al-Najjār
+IMPRINT =  al-Manṣūrah : al-Ḥudūd lil-Nashr wa-al-Tawzīʻ, [2012]
+SUBJECT = Islam 21st century
+SUBJECT = Islam and state
+
+OCLC # = 827335618.
+CALL # = BP166 .S533 2012.
+AUTHOR =  Sīdbī, Jamāl Rajab, author
+TITLE =  Fī ʻilm al-kalām : manhaj wa-taṭbīquh / Jamāl Rajab Sīdbī
+IMPRINT =  ʻĀbidīn, al-Qāhirah : Maktabat Wahbah, 2012
+SUBJECT = Islam Doctrines
+
+OCLC # = 827335523.
+CALL # = BP171 .M87 2012.
+AUTHOR =  Muṣṭafá, ʻAbd al-Ghaffār, author
+TITLE =  al-Islām wa-al-ākhar : taʻāyush lā taṣādum / taʼlīf ʻAbd al-Ghaffār Muṣṭafá ; taqdīm Yūsuf al-Qaraḍāwī
+IMPRINT =  al-Qāhirah : al-Hayʼah al-ʻĀmmah li-Quṣūr al-Thaqāfah, 2012
+SUBJECT = Islam Relations
+SUBJECT = East and West
+SUBJECT = Human rights Religious aspects Islam
+
+OCLC # = 823228912.
+CALL # = BP173.75 .W37 2011.
+AUTHOR =  Wardī, Muḥammad, 1972- author
+TITLE =  Asāsīyāt al-iqtiṣād al-Islāmī wa-taṭbīqātuh al-muʻāṣirah / sīdī Muḥammad al-Wardī ; taqdīm ʻAbd al-Salām Balājī
+IMPRINT =  al-Rabāṭ : [publisher not identified], 2011
+SUBJECT = Economics Religious aspects Islam
+SUBJECT = Islam Economic aspects
+
+OCLC # = 825813295.
+CALL # = BP180 .S29 2012.
+AUTHOR =  Ṣāwī, ʻAbd al-Ḥafīẓ, author
+TITLE =  Tawẓīf amwāl al-zakāt fī al-ʻĀlam al-Islāmī : ruʼyah tanmawīyah / ʻAbd al-Ḥafīẓ al-Ṣāwī
+IMPRINT =  al-Qāhirah : Maktabat al-Shurūq al-Dawlīyah, 2012
+SUBJECT = Zakat
+SUBJECT = Economics Religious aspects Islam
+
+OCLC # = 801202175.
+CALL # = BP183.6 .J373 2012.
+AUTHOR =  Jarārī, ʻAbbās
+TITLE =  Khuṭab minbarīyah / ʻAbbās al-Jarārī ; jamʻ wa-tafrīgh wa-taḥqīq Ilhām al-Mutamassik ; taqdīm Ḥamīdah al-Ṣāʼigh al-Jarārī
+IMPRINT =  [Rabat] : Nādī al-Jarārī, 2012-
+SUBJECT = Jarārī, ʻAbbās Sermons
+SUBJECT = Islamic sermons, Arabic
+VOLUME = v.1
+
+OCLC # = 793689936.
+CALL # = BP186.34 .S85 2012.
+AUTHOR =  Sukayrij, Aḥmad bin al-ʻAyyāshī, 1878 or 9-1943 or 4
+TITLE =  Kamāl al-faraḥ wa-al-surūr bi-mawlid maẓhar al-nūr : mawlidīyah Nabawīyah / li-Aḥmad ibn al-Ḥājj al-ʻAyyāshī Sukayrij al-Anṣārī al-Khazrajī ; dirāsat wa-taḥqīq Muḥammad al-Rāḍī Kannūn al-Ḥasanī al-Idrīsī
+IMPRINT =  al-Rabāṭ : Dār al-Āmān lil-Nashr wa-al-Tawzīʻ, [2012?]
+SUBJECT = Mawlid al-Nabī
+SUBJECT = Muḥammad, Prophet, -632
+SUBJECT = Fasts and feasts Islam
+
+OCLC # = 827548888.
+CALL # = BP187.3 .A45 2012.
+AUTHOR =  ʻAlī, ʻArafah ʻAbduh, author
+TITLE =  al-Maḥmal wa-ayyāmuh.. / ʻArafah ʻAbduh ʻAlī
+IMPRINT =  al-Qāhirah : Dār Akhbār al-Yawm, 2012
+SUBJECT = Muslim pilgrims and pilgrimages Saudi Arabia Mecca
+SUBJECT = Muslim pilgrims and pilgrimages Egypt
+
+OCLC # = 774493449.
+CALL # = BP187.3 .H83 2011.
+AUTHOR =  Ḥuḍaygī, Muḥammad ibn Aḥmad, 1706 or 7-1775
+TITLE =  al-Riḥlah al-Ḥijāzīyah / li-Abī ʻAbd Allāh Muḥammad ibn Aḥmad al-Ḥuḍaykī al-Sūsī ; ḍabṭ wa-yaʻlīq ʻAbd al-ʻĀlī Lamadbar
+IMPRINT =  al-Rabāṭ : Markaz al-Dirāsāt wa-al-Abḥāth wa-Iḥyāʼ al-Turāth, al-Rābiṭah al-Muḥammadīyah lil-ʻUlamāʼ : Dār al-Amān lil-Nashr wa-al-Tawzīʻ, 2011
+SUBJECT = Muslim pilgrims and pilgrimages Saudi Arabia Mecca
+SUBJECT = Hejaz (Saudi Arabia) Description and travel
+
+OCLC # = 824798815.
+CALL # = BP188.45 .I26 2011.
+AUTHOR =  Ibn ʻAjībah, Aḥmad ibn Muḥammad, 1747 or 8-1809, author
+TITLE =  Miʻrāj al-tashawwuf ilá ḥaqāʼiq al-taṣawwuf / Aḥmad ibn Muḥammad Ibn ʻAjībah ; [taḥqīq Fatīḥah Bilʻabbās]
+IMPRINT =  [Rabat?] : [publisher not identified], [2011]
+IMPRINT =  al-Rabāṭ : Maṭbaʻat al-Umnīyah, [2011]
+SUBJECT = Sufism
+
+OCLC # = 824695433.
+CALL # = BP188.8.M8 I73 2011.
+AUTHOR =  ʻIrāqī, Aḥmad, 1944- author
+TITLE =  Sīdī ʻAlī Bū Ghālib fī al-wujdān al-adabī / Aḥmad al-ʻIrāqī
+SUBJECT = [Fés?] : [publisher not identified], [2011]
+IMPRINT =  Fās : Maṭbaʻat Ānfū Brānt, [2011]
+SUBJECT = Sufism Morocco
+SUBJECT = Muslim saints Morocco Biography
+SUBJECT = Tombs Morocco
+
+OCLC # = 774492939.
+CALL # = BP189.65.M87 M354 2011.
+AUTHOR =  Malḥūnī, ʻAbd al-Raḥmān
+TITLE =  Ḥukm al-Islām fī samāʻ al-samāʻ wa-ālāt al-ghināʼ : zubdat ārāʼ fīmā ikhtalafa fīhi al-mutaṣawwifah wa-al-fuqahāʼ ḥawla ḥukm al-Islām fī samāʻ al-samāʻ wa-ālāt al-ghināʼ : jawlah fī fiqh al-ghināʼ / ʻAbd al-Raḥmān al-Malḥūnī
+IMPRINT =  al-Rabāṭ : Dār Abī Raqāq lil-Ṭibāʻah wa-al-Nashr, 2011
+SUBJECT = Singing Religious aspects Islam
+SUBJECT = Music Religious aspects Islam
+VOLUME = v.1-2
+
+OCLC # = 793689929.
+CALL # = BP189.7.T5 S55 2012.
+AUTHOR =  Shingīṭī, Aḥmad ibn Muḥam ibn al-ʻAbbās al-ʻAlawī
+TITLE =  Rawḍ shamāʼil ahl al-ḥaqīqah fī al-taʻrīf bi-akābir ahl al-ṭarīqah / li-Aḥmad ibn Muḥam ibn al-ʻAbbās al-ʻAlawī al-Shingīṭī ; taḥqīq Muḥammad al-Rāḍī Kannūn al-Idrīsī al-Ḥasanī
+IMPRINT =  al-Rabāṭ : Dār al-Amān, [2012?]
+SUBJECT = Tijānīyah
+SUBJECT = Sufis Biography
+SUBJECT = Sufism
+
+OCLC # = 767961295.
+CALL # = BP189.7.T52 A2 2011.
+AUTHOR =  Ḥasanī, Abū ʻAbd Allāh Muḥammad ibn Muḥammad al-Ḥajjūjī, 1880-1951
+TITLE =  Itḥāf ahl al-marātib al-ʻirfānīyah bi-dhikr baʻḍ rijāl al-ṭarīqah al-Tijānīyah / li-Muḥammad ibn Muḥammad al-Ḥajjūjī al-Ḥasanī ; taḥqīq Muḥammad al-Rāḍī Kannūn al-Ḥasanī al-Idrīsī
+IMPRINT =  [al-Rabāṭ : Dār al-Amān lil-Tawzīʻ, 2011?]
+IMPRINT =  Tijānīyah Biography
+SUBJECT = Sufis Morocco Biography
+VOLUME = v.4
+VOLUME = v.3
+VOLUME = v.2
+VOLUME = v.1
+
+OCLC # = 767960795.
+CALL # = BP189.7.T52 A22 2011.
+AUTHOR =  Idrīsī, Muḥammad al-Rāḍī Kannūn al-Ḥasanī
+TITLE =  al-Fihris al-shāmil li-muʼallafāt al-ṭarīqah al-Tijānīyah / Muḥammad al-Rāḍī Kannūn al-Ḥasanī al-Idrīsī
+IMPRINT =  al-Rabāṭ : Dār al-Āmān lil-Tawzīʻ, [2011?]
+SUBJECT = Tijānīyah Bibliography Dictionaries
+
+OCLC # = 759838439.
+CALL # = BP190.5.N38 A28 2007.
+AUTHOR =  Abū al-Makārim, Saʻīd
+TITLE =  Bayna al-hayʼah wa-al-falsafah / Saʻīd Abū al-Makārim
+IMPRINT =  Bayrūt : Dār al-Makārim li-Iḥyāʼ al-Turāth, 2007
+SUBJECT = Nature Religious aspects Islam
+SUBJECT = Human ecology Religious aspects Islam
+SUBJECT = Islamic philosophy
+
+OCLC # = 774493411.
+CALL # = BP190.5.R4 A363 2011.
+AUTHOR =  ʻAdnānī, Ruzayqah
+TITLE =  Taʻṭīl al-ʻaql fi al-fikr al-Islāmī : yakhdum al-Islām amm yaḍurru bihi? / Ruzayqah ʻAdnānī
+IMPRINT =  al-Dār al-Bayḍāʼ : Afrīqiyā al-Sharq, 2011
+SUBJECT = Faith and reason Islam
+
+OCLC # = 825820038.
+CALL # = BP192.7.Y4 A28 2012.
+AUTHOR =  Abū ʻĀbid, Raʼūf Sulaymān, author
+TITLE =  al-Ḥūthīyūn : al-dawr wa-al-mawqaʻ fī luʻbat al-tawāzunāt al-iqlīmīyah - al-dawlīyah / Raʼūf Sulaymān Abū ʻĀbid
+IMPRINT =  [Cairo] : Jāmiʻat al-Duwal al-ʻArabīyah, al-Munaẓẓamah al-ʻArabīyah lil-Tarbiyah wa-al-Thaqāfah wa-al-ʻUlūm, Maʻhad al-Buḥūth wa-al-Dirāsāt al-ʻArabīyah, 2012
+SUBJECT =  Shabāb al-Muʼmin
+SUBJECT = Shīʻah Yemen (Republic)
+
+OCLC # = 823036765.
+CALL # = BP194.16 .M86 2012.
+AUTHOR =  Munīr, Abū Bilāl ʻAbd al-Qādir, author
+TITLE =  Īqāẓ al-rāqidīn wa-tanbīh al-ghāfilīn min khaṭar al-Shīʻah al-rāfiḍah ʻalá al-Islām wa-al-Muslimīn / taʼlīf Abū Bilāl ʻAbd al-Qādir Munīr
+IMPRINT =  [Morocco?] : [publisher not identified], 2012
+SUBJECT = Shīʻah Relations Sunnites
+SUBJECT = Sunnites Relations Shīʻah
+SUBJECT = Shīʻah Controversial literature
+
+OCLC # = 824140113.
+CALL # = BP195.M66 S53 2012.
+AUTHOR =  Shaykh Fāṭ Fāl, Muḥammad al-Murtaḍá Ambākī, 1947-1989, author
+TITLE =  al-Murīdīyah : al-ḥaqīqah wa-al-wāqiʻ wa-āfāq al-mustaqbal / taʼlīf Muḥammad al-Murtaḍá Ambākī Shaykh Fāṭ Fāl
+IMPRINT =  al-Sinighāl : Muʼassasat al-Azhar al-Islāmīyah, [2012]
+SUBJECT = Bāmbā, Aḥmadū, 1852-1927
+SUBJECT = Murīdīyah Senegal
+SUBJECT = Sufi poetry, Arabic Senegal
+SUBJECT = Sufi poetry, Arabic History and criticism
+
+OCLC # = 824947553.
+CALL # = BP195.S18 B36 2012.
+AUTHOR =  Bannā, Jamāl, author
+TITLE =  Lābudda min mujāwazat al-Salafīyah / Jamāl al-Bannā
+IMPRINT =  al-Qāhirah : Dār al-Fikr al-Islāmī, 2012
+SUBJECT = Salafīyah Egypt 21st century
+SUBJECT = Islamic fundamentalism Egypt 21st century
+SUBJECT = Islam and politics Egypt 21st century
+
+OCLC # = 774492941.
+CALL # = BP195.W2 A83 2011.
+AUTHOR =  ʻAsarī, ʻAbd al-Salām
+TITLE =  al-ʻAqīdah al-Islāmīyah bayna al-ashāʻirah wa-,am wāfaqahum wa-bayna al-Wahhābīyīn al-Taymīyīn, aw, Bayān talbīs Ibn Taymiyah wa-atbāʻahu fī nashr : awhāmahum fī fihm āyāt wa-aḥādīth al-ʻaqīdah / ʻAbd al-Salām al-ʻAsarī
+SUBJECT =  al-Rabāṭ : Dār al-Qalam, 2011
+SUBJECT = Islam Doctrines
+SUBJECT = Islamic sects
+SUBJECT = Asharites
+SUBJECT = Wahhābīyah
+SUBJECT =  Ibn Taymīyah, Aḥmad ibn ʻAbd al-Ḥalīm, 1263-1328
+
+OCLC # = 785790971.
+CALL # = BP195.W2 H36 2012.
+AUTHOR =  Ḥamādah, Muntaṣir
+TITLE =  al-Wahhābīyah fī al-Maghrib / Muntaṣir Ḥamādah
+IMPRINT =  al-Dār al-Bayḍāʼ : Dār Tūbqāl lil-Nashr, 2012
+SUBJECT = Wahhābīyah Morocco
+
+OCLC # = 824176684.
+CALL # = D116.7.I13 S24 2011.
+AUTHOR =  Saḥbūn, ʻAlī Raḥūmah, author
+TITLE =  Bīblīyūghrāfīyā khāṣṣah bi-al-ʻAllāmah Ibn Khaldūn / iʻdād wa-tansīq ʻAlī Raḥūmah Saḥbūn
+SUBJECT = [Rabat?] : [publisher not identified], 2011
+IMPRINT =  al-Rabāṭ : Maṭbaʻat al-Karāmah, 2011
+SUBJECT =  Ibn Khaldūn, 1332-1406 Bibliography
+
+OCLC # = 823640996.
+CALL # = DP27.5 .I83 2011.
+AUTHOR =  Isbānīyā bi-ʻuyūn al-raḥḥālīn al-Maghāribah / tansīq Shuʻayb Ḥalīfī
+IMPRINT =  al-Dār al-Bayḍāʼ : Manshūrāt al-Mukhtabarāt, Mukhtabar al-Sardīyāt, 2011
+SUBJECT = Spain Description and travel
+SUBJECT = Travelers Morocco
+SUBJECT = Travelers Spain
+SUBJECT = Morocco Intellectual life
+
+OCLC # = 824132791.
+CALL # = DP100 .M34 2010.
+AUTHOR =  al-Maghrib wa-al-Andalus : dirāsāt wa-tarjamāt / Maṣṭafá Ghaṭīs, Muṣṭafá Shaqrūf, Mārībīl Fīyīrrū, Muṣṭafá Binsibāʻ, Idrīs Bū Halīlah, Muḥammad al-Sharīf , Muḥsin Shaddād ; taqdīm wa-tansīq Muṣṭafá Binsibāʻ
+IMPRINT =  Tiṭwān : Jāmiʻat ʻAbd al-Malik al-Saʻdī, Kullīyat al-Ādāb wa-al-ʻUlūm al-Insānīyah, 2010
+SUBJECT = Spain History 711-1516 Sources
+SUBJECT = Morocco History Sources
+SUBJECT = Sufism Spain Sources
+SUBJECT = Africa, North History 647-1517 Sources
+
+OCLC # = 824161288.
+CALL # = DP302.A44 Y37 2011.
+AUTHOR =  Yāqūt ibn ʻAbd Allāh al-Ḥamawī, 1179?-1229, author
+TITLE =  Muʻjam al-Andalus wa-al-Maghrib : min kitāb "Muʻjam al-buldān" / Yāqūt al-Ḥamawī ; jamʻ wa-taḥqīq wa-taqdīm al-Duktūr Muḥammad Ḥaqqī
+IMPRINT =  [Morocco] : [publisher not identified], 2011
+IMPRINT =  Banī Mallāl : ʻAyn Asardūn, 2011
+SUBJECT = Geography Spain Andalusia Dictionaries Arabic
+SUBJECT = Geography Morocco Dictionaries Arabic
+
+OCLC # = 825819448.
+CALL # = DS36.8 .U839 2013.
+AUTHOR =  ʻUṣfūr, Jābir, author
+TITLE =  Difāʻ ʻan al-turāth / Jābir ʻUṣfūr
+IMPRINT =  al-Qāhirah : al-Dār al-Miṣrīyah al-Lubnānīyah, 2013
+SUBJECT = Civilization, Arab
+SUBJECT = Arab countries Intellectual life
+
+OCLC # = 793946310.
+CALL # = DS36.88 .A82 2011.
+AUTHOR =  ʻAzab, Khālid
+TITLE =  al-Thaqāfah al-ʻArabīyah-- tasāʼūlāt al-mustaqbal / Khālid ʻAzab
+IMPRINT =  al-Iskandarīyah : Maktabat al-Iskandarīyah, 2011
+SUBJECT = Arab countries Intellectual life 21st century
+SUBJECT = Globalization
+
+OCLC # = 746607517.
+CALL # = DS38.7 . A99 2011.
+AUTHOR =  ʻAzzāwī, Aḥmad
+TITLE =  al-ʻAlāqāt bayna al-ʻālamayn al-Islāmī wa-al-Masīḥī fī al-ʻAṣr al-Wasīṭ / Aḥmad ʻAzzāwī
+SUBJECT = Rabat : Rabat Net Maroc, 2011
+SUBJECT = Islamic Empire Foreign relations Europe Sources
+SUBJECT = Europe Foreign relations Islamic Empire Sources
+VOLUME = v.3
+VOLUME = v.2
+VOLUME = v.1
+
+OCLC # = 827335366.
+CALL # = DS63.18 .A28 2012.
+AUTHOR =  Abū al-ʻUlā, Muḥammad Ḥusayn, author
+TITLE =  Mīthāq al-ʻabath al-siyāsī / Muḥammad Ḥusayn Abū al-ʻUlā
+IMPRINT =  al-Qāhirah : Markaz al-Maḥrūsah lil-Nashr wa-al-Khadamāt al-Ṣuḥafīyah wa-al-Maʻlūmāt, 2012
+SUBJECT = Arab countries Politics and government
+
+OCLC # = 823591821.
+CALL # = DS97.5 .I73 2012.
+AUTHOR =  ʻĪsá, ʻAbd al-Rāziq ʻAbd al-Rāziq
+TITLE =  Wathāʼiq asāsīyah min tārīkh al-Shām : fī ẓill ḥukm Muḥammad ʻAlī, 1832-1840 M / ʻAbd al-Rāziq ʻĪsá
+IMPRINT =  [Cairo] : al-Majlis al-Aʻlá lil-Thaqāfah, 2012
+SUBJECT = Syria History 1516-1918
+SUBJECT = Lebanon History 1516-1918
+SUBJECT = Palestine History 1799-1917
+
+OCLC # = 764334379.
+CALL # = DS109.9 .A23 2010.
+AUTHOR =  ʻAbd al-Raḥīm, Ibtisām Aḥmad
+TITLE =  Sūr al-Quds al-Jadīd / Ibtisām Aḥmad ʻAbd al-Raḥīm
+IMPRINT =  al-Qāhirah : Dār al-Qamar lil-Nashr wa-al-Tawzīʻ, 2010
+SUBJECT = Jerusalem History
+SUBJECT = Palestine History
+
+OCLC # = 825795192.
+CALL # = DS126.6.A67 A47 2012.
+AUTHOR =  ʻAmr, Nabīl, author
+TITLE =  Yāsir ʻArafāt wa-junūn al-jughrāfīyā / Nabīl ʻAmr
+IMPRINT =  al-Qāhirah : Dār al-Shurūq, 2012
+SUBJECT =  Arafat, Yasir, 1929-2004
+SUBJECT = Heads of state Palestine Biography
+SUBJECT = Presidents Palestine Biography
+SUBJECT =  Munaẓẓamat al-Taḥrīr al-Filasṭīnīyah Biography
+SUBJECT = Arab-Israeli conflict
+
+OCLC # = 824947372.
+CALL # = DS326 .S54 2013.
+AUTHOR =  Shammarī, Muṣṭafá Ibrāhīm Salmān, author
+TITLE =  ʻAskarat al-Khalīj : al-wujūd al-ʻaskarī al-Amrīkī fī al-Khalīj / Muṣṭafá Ibrāhīm Salmān al-Shammarī
+IMPRINT =  al-Qāhirah : al-ʻArabī lil-Nashr wa-al-Tawzīʻ, 2013
+SUBJECT = Persian Gulf Region Foreign relations United States
+SUBJECT = United States Foreign relations Persian Gulf Region
+SUBJECT = United States Politics and government
+
+OCLC # = 826073060.
+CALL # = DT72.C7 A63 2012.
+AUTHOR =  ʻAzbāwī, Yusrī Aḥmad
+TITLE =  Aqbāṭ al-mahjar : thulāthīyah al-dawlah wa-al-kanīsah wa-al-muwaṭanah / Yusrī al-ʻIzbāwī
+IMPRINT =  al-Qāhirah : Markaz al-Dirāsāt al-Sīyāsīyah wa-al-Istirātījīyah bi-al-Ahrām, 2012
+SUBJECT = Citizenship Egypt
+SUBJECT = Copts Foreign countries
+SUBJECT = Immigrants
+
+OCLC # = 825768891.
+CALL # = DT77 .A23 2012.
+AUTHOR =  ʻAbd al-ʻĀl, Aḥmad
+TITLE =  Walaʻ al-farjah : faqr al-tārīkh / Aḥmad ʻAbd al-ʻĀl
+IMPRINT =  al-Qāhirah : al-Hayʼah al-ʻĀmmah li-Quṣūr al-Thaqāfah, 2012
+SUBJECT = Egypt History
+
+OCLC # = 826004502.
+CALL # = DT82.5.G8 I43 2012.
+AUTHOR =  Imām, Muḥammad Rifʻat, author
+TITLE =  Ḥikāyat al-Yūnānī al-mutamaṣṣir / taʼlīf Muḥammad Rifʻat al-Imām
+IMPRINT =  al-Qāhirah : al-Hayʼah al-ʻĀmmah li-Quṣūr al-Thaqāfah, 2012
+SUBJECT = Egypt Foreign relations Greece
+SUBJECT = Greece Foreign relations Egypt
+
+OCLC # = 825821914.
+CALL # = DT96 .A53 2012.
+AUTHOR =  Anas, Ashraf Muḥammad, author
+TITLE =  Kutub al-dasātīr fī ʻAṣr al-Mamālīk, 648 - 923 H / 1250 - 1517 M / Ashraf Muḥammad Anas
+IMPRINT =  al-Qāhirah : Maktabat al-Ādab, 2012
+SUBJECT = Mamelukes
+SUBJECT = Egypt History 1250-1517
+
+OCLC # = 826008747.
+CALL # = DT107.827 .J39 2012.
+AUTHOR =  Jawharī, Ḥātim, 1975- author
+TITLE =  al-Miṣrīyūn bayna al-takayyuf wa-al-thawrah : baḥthan ʻan naẓarīyah lil-thawrah / Ḥātim al-Jawharī ; taqdīm Aḥmad Zāyid
+IMPRINT =  al-Qāhirah : al-Hayʼah al-ʻĀmmah li-Quṣūr al-Thaqāfah, 2012
+SUBJECT = Egypt History Protests, 2011-
+SUBJECT = Egypt Politics and government 21st century
+SUBJECT = Revolutions Egypt History 21st century
+
+OCLC # = 825962094.
+CALL # = DT107.83 .S55 2012.
+AUTHOR =  Shiḥātah, Muṣṭafá, author
+TITLE =  Kitāb al-fulūl : qiṣṣat al-mutaḥawwilīn siyāsiyan.. min thawrat Yūliyū ilá thawrat Yanāyir / Muṣṭafá Shiḥātah ; taqdīm Wāʼil Qindīl
+IMPRINT =  al-Maʻādī al-Jadīdah, al-Qāhirah : Dār al-Miṣrī lil-Nashr wa-al-Tawzīʻ, 2012
+SUBJECT = Egypt History Revolution, 1952
+SUBJECT = Egypt History Protests, 2011-
+SUBJECT = Egypt Politics and government 1981-
+
+OCLC # = 826008794.
+CALL # = DT107.87 .B55 2012.
+AUTHOR =  Bilāl, Aḥmad, author
+TITLE =  Hawāmish ʻalá daftar al-thawrah / Aḥmad Bilāl
+IMPRINT =  al-Qāhirah : al-Hayʼah al-ʻĀmmah li-Quṣūr al-Thaqāfah, 2012
+SUBJECT = Egypt History Protests, 2011-
+SUBJECT = Egypt Politics and government 21st century
+SUBJECT = Revolutions Egypt History 21st century
+
+OCLC # = 827336715.
+CALL # = DT107.87 .I276 2012.
+AUTHOR =  Ibrāhīm, Muḥammad
+TITLE =  Shāhid ʻalá al-marḥalah al-intiqālīyah / Muḥammad Ibrāhīm
+IMPRINT =  al-Qāhirah : al-Ḥaḍārah lil-Nashr, 2012
+SUBJECT = Egypt History Protests, 2011- Personal narratives
+SUBJECT = Egypt Politics and government 21st century Personal narratives
+SUBJECT = Revolutions Egypt History 21st century Personal narratives
+SUBJECT = Democracy Egypt 21st century Personal narratives
+SUBJECT =  Ibrāhīm, Muḥammad
+
+OCLC # = 825563225.
+CALL # = DT107.87 .I86 2012.
+AUTHOR =  Ismāʻīl, Hind, author
+TITLE =  Aḥlām al-Miṣrīyīn : min wajaʻ al-qalb.. li-rāḥat al-bāl / Hind Ismāʻīl
+IMPRINT =  al-Qāhirah : Dār al-Shurūq, 2012
+SUBJECT =  Ismāʻīl, Hind Interviews
+SUBJECT = Revolutions Egypt 21st century Interviews
+
+OCLC # = 827304231.
+CALL # = DT107.87 .T43 2012.
+AUTHOR =  al-Thawrah al-Miṣrīyah wa-dirāsat al-ʻulūm al-siyāsīyah : aʻmāl al-muʼtamar al-sanawī al-awwal li-shabāb aʻḍāʼ hayʼat al-tadrīs, 14-15 Yūnīyah 2011 / taqdīm Ikrām Badr al-Dīn ; taḥrīr Nādiyah Muṣṭafá, Amal Ḥamādah
+TITLE =  al-Qāhirah : Jāmiʻat al-Qāhirah : Kullīyat al-Iqtiṣād wa-al-ʻUlūm al-Siyāsīyah, Qism al-ʻUlūm al-Siyāsīyah, [2012?]
+SUBJECT = Egypt History Protests, 2011- Congresses
+SUBJECT = Political science Study and teaching Egypt Congresses
+
+OCLC # = 827530781.
+CALL # = DT107.88 .S25 2012.
+AUTHOR =  Saʻīd, Rifʻat, author
+TITLE =  Rasāʼil ilá D. Mursī : maqālāt, ḥiwārāt, dirāsāt / Rifʻat al-Saʻīd
+IMPRINT =  [Cairo] : Rifʻat al-Saʻīd, 2012
+SUBJECT =  Mursī, Muḥammad, 1951-
+SUBJECT = Presidents Egypt Election
+SUBJECT = Egypt Politics and government 21st century
+SUBJECT = Islam and politics Egypt History 21st century
+
+OCLC # = 823591824.
+CALL # = DT108.87 .M8738 2011.
+AUTHOR =  Muṣayliḥī, Fatḥī Muḥammad
+TITLE =  Maydān al-taḥrīr wa-nahr al-thawrah : al-waṭan wa-al-shaʻb wa-al-tārīkh / taʼlīf Fatḥī Muḥammad Muṣayliḥī
+IMPRINT =  [Cairo?] : F.M. Muṣayliḥī, 2011
+SUBJECT = Egypt Politics and government
+SUBJECT = Egypt History Protests, 2011-
+SUBJECT = Revolutions Egypt
+
+OCLC # = 825771446.
+CALL # = DT116 .T39 2012.
+AUTHOR =  Ṭāyiʻ, Muḥammad Sālimān, author
+TITLE =  Miṣr wa-azmat miyāh al-Nīl : āfāq al-ṣirāʻ wa-al-taʻāwun / Muḥammad Sālimān Ṭāyiʻ
+IMPRINT =  al-Qāhirah : Dār al-Shurūq, 2012
+SUBJECT = Water-supply Egypt
+SUBJECT = Water rights Nile River
+SUBJECT = Nile River International status
+SUBJECT = Water-supply Political aspects Nile River
+
+OCLC # = 823227680.
+CALL # = DT159.929 .M87 2013.
+AUTHOR =  Mūsá, ʻAbd al-ʻAzīz Muḥammad, 1965-
+TITLE =  Janūb al-Sūdān : min al-mufāwaḍāt ilá al-infiṣāl / iʻdād ʻAbd al-ʻAzīz Muḥammad Mūsá
+IMPRINT =  al-Haram, J.M.ʻA. : al-Dār al-ʻĀlamīyah lil-Nashr wa-al-Tawzīʻ, 2013
+SUBJECT = South Sudan History
+SUBJECT = South Sudan Social life and customs
+
+OCLC # = 825813142.
+CALL # = DT234 .Z83 2013.
+AUTHOR =  Zubaydī, ʻUmar bin Muḥammad al-Majdhūb bin Ḥusayn, author
+TITLE =  Ṣafaḥāt mushriqah min jihād al-Lībīyīn fī Tarhūnah : maʻrakat al-shaqīqah sanat 1915 M : muqaddimātuha, wa-natāʼijuhā / taʼlīf ʻUmar bin Muḥammad al-Majdhūb bin Ḥusayn al-Zubaydī ; taqdīm Muṣṭafá Ṣāliḥ al-Azraq
+IMPRINT =  al-Qāhirah : Dār al-Fikr al-ʻArabī, 2013
+SUBJECT = Turco-Italian War, 1911-1912
+SUBJECT = Libya History 1551-1912
+
+OCLC # = 823224103.
+CALL # = DT280 .S85 2011.
+AUTHOR =  Sukayrij, Aḥmad bin al-ʻAyyāshī, 1878 or 9-1943 or 4
+TITLE =  Shibh riḥlah ilá al-Jazāʼir / li-Sayyidī Aḥmad ibn al-Ḥājj al-ʻAyyāshī Sukayrij al-Khazrajī al-Anṣārī ; dirāsat wa-taḥqīq Muḥammad al-Rāḍī Kannūn al-Ḥasanī al-Idrīsī
+IMPRINT =  al-Rabāṭ : Dār al-Āmān lil-Tawzīʻ, [2011?]
+SUBJECT =  Sukayrij, Aḥmad bin al-ʻAyyāshī, 1878 or 9-1943 or 4 Travel Algeria
+SUBJECT = Algeria Description and travel
+
+OCLC # = 824363105.
+CALL # = DT295.6 .A45 2011.
+AUTHOR =  Amīn, Muḥammad, author
+TITLE =  Dirāsāt fī tārīkh al-Jazāʼir al-ḥadīth / Muḥammad Amīn
+IMPRINT =  [ Rabat?] : [publisher not identified], [2011]
+IMPRINT =  Fās : Maṭbaʻat Ānfū Birānt, [2011]
+SUBJECT = Algeria History 20th century
+
+OCLC # = 774493462.
+CALL # = DT299.O7 S85 2011.
+AUTHOR =  Sukayrij, Aḥmad bin al-ʻAyyāshī, 1878 or 9-1943 or 4
+TITLE =  al-Riḥlah al-ḥabībīyah al-Wahrānīayh, al-jāmiʻah li-lṭāʼif al-ʻīrfānīyah / li-Aḥmad bin al-Ḥājj al-ʻAyyāshī Sukayrij ; dirāsat wa-taḥqīq Muḥammad ibn Ḥamzah al-Rāḍī Kannūn al-Ḥasanī al-Idrīsī
+IMPRINT =  al-Rabāṭ : Dār al-Amān lil-Nashr wa-al-Tawzīʻ, [2011?]
+SUBJECT =  Sukayrij, Muḥammad bin al-Ḥājj al-ʻAyyāshī, 1875-1965 Travel Algeria Oran
+SUBJECT = Oran (Algeria) Description and travel
+
+OCLC # = 824730276.
+CALL # = DT299.T55 M36 2011.
+AUTHOR =  Maqqarī, Muḥammad ibn Muḥammad, d. 1358
+TITLE =  al-Ḥaqāʼiq wa-al-raqāʼiq / li-ʻAbd Allāh al-Maqqarī al-Tilimsānī. Sharḥ abyāt li-baʻḍ ahl al-ʻirfān / al-Sanūsī, Ibn Zakrī ; dirāsah wa-taḥqīq Muḥammad Būziyān Bin-ʻAlī ; taqdīm Aḥmad Ḥaddādī
+IMPRINT =  [Wajdah?] : al-Majlis al-ʻIlmī al-Maḥallī li-Fajīʻ, 2005
+SUBJECT = Muslim saints Algeria Biography Early works to 1800
+SUBJECT = Sufis Algeria Biography Early works to 1800
+SUBJECT = Muslim scholars Algeria Biography Early works to 1800
+SUBJECT = Ulama Algeria Biography Early works to 1800
+SUBJECT = Tlemcen (Algeria) Biography
+SUBJECT =  Sanūsī, Muḥammad ibn Yūsuf, approximately 1427-approximately 1490. Sharḥ abyāt li-baʻḍ ahl al-ʻirfān
+SUBJECT =  Ibn Zakrī, Aḥmad ibn Muḥammad, d. 1493 or 4. Sharḥ abyāt li-baʻḍ ahl al-ʻirfān
+
+OCLC # = 823504853.
+CALL # = DT311 .B36 2012.
+AUTHOR =  Bannīs, ʻAbd al-Ḥayy, author
+TITLE =  al-Maʼathir al-Maghribīyah fī al-marāsīm wa-al-ẓahāʼir al-Maghribīyah / ʻAbd al-Ḥayy Bannīs
+IMPRINT =  al-Rabāṭ : Manshūrāt al-Maʻārif, 2012
+SUBJECT = Morocco Antiquities
+
+OCLC # = 143609201.
+CALL # = DT313.3.S27 S53 2006.
+AUTHOR =  Shawqī, al-Ḥasan, 1953-
+TITLE =  Tārīkh qabīlat al-Sarāghinah / al-Ḥasan Shawqī
+IMPRINT =  [Rabat] : al-Ḥasan Shawqī, [2006]-2010
+SUBJECT = Sarāghinah (berber tribe) Morocco
+SUBJECT = Tribes Morocco History
+SUBJECT = Morocco History
+VOLUME = v.1
+VOLUME = v.2
+
+OCLC # = 823597765.
+CALL # = DT317.5.R9 A83 2011.
+AUTHOR =  ʻAṭāwī, ʻAbd al-Raḥīm, author
+TITLE =  al-Maghrib wa-Rūsīyā : al-Maghrib wa-Rūsīyā ʻabra al-tārīkh, al-kitābāt al-Rūsīyah ḥawla al-Maghrib / taʼlīf ʻAbd al-Raḥīm al-ʻAṭāwī ; bi-musāhamat Ḥamīd al-ʻAzzūzī wa ʻAbd al-Majīd bin Yūsuf
+IMPRINT =  al-Rabāṭ : Kullīyat al-Ādāb wa-al-ʻUlūm al-Insānīyah, 2011
+SUBJECT = Morocco Relations Russia (Federation)
+SUBJECT = Russia (Federation) Relations Morocco
+SUBJECT = Morocco History
+
+OCLC # = 823603239.
+CALL # = DT319 .C44 2011.
+AUTHOR =  Cherif, Mohamed, author
+TITLE =  Muḥāḍarāt wa-mabāḥith fī tārīkh al-Maghrib al-Marīnī wa-ḥaḍāratih / Muḥammad al-Sharīf
+IMPRINT =  Tiṭwān : Jāmiʻat ʻAbd al-Malik al-Saʻdī : Kullīyat al-Ādāb wa-al-ʻUlūm al-Insānīyah, [2011]
+SUBJECT = Morocco History 647-1516
+SUBJECT = Beni Marin dynasty History
+
+OCLC # = 824429306.
+CALL # = DT324 .B399 2011.
+AUTHOR =  Bilḥaddād, Nūr al-Dīn, author
+TITLE =  al-Sulṭān Mawlāy al-Ḥasan al-Awwal wa-al-siyādah al-Maghribīyah ʻalá al-aqālīm al-janūbīyah, 1873-1894 / Nūr al-Dīn Bilḥaddād
+IMPRINT =  [Morocco] : Mandūbīyah al-Sāmīyah li-Qudamāʼ al-Muqāwimīn wa-Aʻḍāʼ Jaysh al-Taḥrīr, 2011
+SUBJECT = Morocco History 19th century
+SUBJECT = Hassan I, Sultan of Morocco, 1831-1894
+
+OCLC # = 774493403.
+CALL # = DT324 .H373 2011.
+AUTHOR =  Ḥasanī, Rashīd al-ʻUlawī
+TITLE =  al-Azminah al-ʻasīrah min tārīkh al-Maghrib al-ḥadīth / Rashīd al-ʻUlawī al-Ḥasanī
+IMPRINT =  al-Dār al-Bayḍāʼ : Afrīqiyā al-Sharq, 2011
+SUBJECT = Morocco History 19th century
+SUBJECT = Morocco History 20th century
+
+OCLC # = 757558798.
+CALL # = DT324 .K456  2011.
+AUTHOR =  Kenbib, Mohammed
+TITLE =  al-Maḥmīyūn / Muḥammad Kinbīb
+IMPRINT =  [al-Rabāṭ] : Kullīyat al-Ādāb wa-al-ʻUlūm al-Insanīyah bi-al-Rabāṭ : Manshūrāt Bāb Anfā, 2011
+SUBJECT = Morocco History 19th century
+SUBJECT = Morocco Politics and government
+SUBJECT = Morocco Foreign relations Europe
+SUBJECT = Europe Foreign relations Morocco
+
+OCLC # = 823040964.
+CALL # = DT324.92.F37 I37 2011.
+AUTHOR =  Idrīsī, ʻAbd al-Qādir, 1946-
+TITLE =  ʻAllāl al-Fāsī qimmah min al-Maghrib : malāmiḥ min fikrih wa-maʻālim min sīratih / ʻAbd al-Qādir al-Idrīsī
+IMPRINT =  [Casablanca : s.n.], 2011 (al-Dār al-Bayḍāʼ : Maṭbaʻat al-Najāḥ al-Jadīdah)
+SUBJECT =  Fāsī, ʻAllāl, 1910-1974
+SUBJECT = Statesmen Morocco Biography
+SUBJECT = Morocco Politics and government 20th century
+
+OCLC # = 823176847.
+CALL # = DT324.92.M87 L55 2011.
+AUTHOR =  Likhwājah, Muḥammad
+TITLE =  ʻAbbās al-Musāʻidī : al-shajarah allatī takhfī ghābat jaysh al-taḥrīr... / Muḥammad Likhwājah
+IMPRINT =  al-Rabāṭ : Dār Abī Raqrāq lil-Ṭibāʻah wa-al-Nashr, [2011]
+IMPRINT =  Musāʻidī, ʻAbbās
+SUBJECT = National liberation movements Morocco
+SUBJECT = Morocco History 20th century
+SUBJECT = Morocco Politics and government 20th century
+
+OCLC # = 823170460.
+CALL # = DT325.5 .M53 2010.
+AUTHOR =  Nadawāt Muʼassasat ʻAllāl al-Fāsī (4th : 2010 : Fès, Morocco)
+TITLE =  Miʼat sanah min al-ijtihād wa-al-tajdīd al-fikrī bi-al-Maghrib, 1910-2010 / iʻdād al-Mukhtār Bāqah
+IMPRINT =  [Rabat] : Muʼassasat ʻAllāl al-Fāsī, 2011
+SUBJECT = Morocco Intellectual life 20th century Congresses
+VOLUME = v.2
+VOLUME = v.1
+
+OCLC # = 823766491.
+CALL # = DT325.5 .S294 2012.
+AUTHOR =  Ṣawlabī, Ḥamīd, 1961- author
+TITLE =  al-Fikr al-Maghribī al-muʻāṣir : dirāsah fī al-aʻlām wa-al-muʼassasāt / Ḥamīd al-Ṣawlabī
+SUBJECT = [Marrakesh?] : [publisher not identified], 2012
+IMPRINT =  Marrākush : al-Maṭbaʻah wa-al-Warāqah al-Waṭanīyah, 2012
+SUBJECT = Morocco Intellectual life 20th century
+
+OCLC # = 823121894.
+CALL # = DT325.6 .A98 2011.
+AUTHOR =  Āyt Īdir, Muḥammad Binsaʻīd, 1925- author
+TITLE =  Wathāʼiq Jaysh al-Taḥrīr fī Janūb al-Maghrib, 1956-1959 / iʻdād wa-taqdīm Muḥammad Binsaʻīd Āyt Īdir
+IMPRINT =  al-Dār al-Bayḍāʼ : Markaz Muḥammad Binsaʻīd Āyt Īdir, 2011
+SUBJECT = National liberation movements Morocco
+SUBJECT = Morocco History, Military 19th century
+SUBJECT = Morocco History 19th century Sources
+
+OCLC # = 823158231.
+CALL # = DT325.7 .E4212 2012.
+AUTHOR =  El Malki, Habib, 1945- author
+SUBJECT = Parenthèse désenchantée. Arabic
+TITLE =  al-Intiqāl al-siyāsī : tajribah Maghribīyah / Ḥabīb al-Mālikī ; ḥiwār wa-iʻdād Narjis al-Righāy ; tarjumah Muṣṭafá al-Naḥḥāl
+IMPRINT =  al-Dār al-Bayḍāʼ : Markaz al-Thaqāfī al-ʻArabī, 2012
+SUBJECT = Morocco Politics and government
+SUBJECT = Morocco History 20th century
+
+OCLC # = 824730472.
+CALL # = DT328.K37 M36 2011.
+AUTHOR =  Maʻná, Muḥammad al-Sanūsī, author
+TITLE =  Ṣafaḥāt min tārīkh qaryat bā Muḥammad baldat al-Sanūsīyah / Muḥammad al-Sanūsī Maʻná
+IMPRINT =  al-Dār al-Bayḍāʼ : Dār al-Nashr al-Maghribīyah, 2011
+SUBJECT = Karia Ba Mohamed (Morocco) History
+SUBJECT = Fès (Morocco : Province) History
+
+OCLC # = 553597130.
+CALL # = DT328.R5 S85 2010.
+AUTHOR =  Sukayrij, Aḥmad bin al-ʻAyyāshī, 1878 or 9-1943 or 4
+TITLE =  al-Ẓill al-warīf fī muḥārabat al-Rīf / taʼlīf Aḥmad Sukayrij al-Anṣārī al-Khazrajī; dirāsat wa-taḥqīq Rashīd Yashūtī; taqdīm Ḥasan al-Fijījī
+IMPRINT =  al-Ribāṭ : Maʻhad al-Jāmiʻī lil-Baḥth al-ʻIlmī, 2010
+SUBJECT = Rif Revolt, 1921-1926
+SUBJECT = Morocco Politics and government 20th century
+SUBJECT = Morocco History 20th century
+SUBJECT = Rif (Morocco) History 20th century
+SUBJECT = Nationalism Morocco 20th century
+SUBJECT = Anti-imperialist movements Morocco
+SUBJECT = Morocco History Autonomy and independence movements
+SUBJECT = Morocco Military and Colonial History Early 20th Century
+
+OCLC # = 823504774.
+CALL # = DT329.D56 D56 2012.
+AUTHOR =  Dimnātī, Aḥmad Najīb, 1903-1981, author
+TITLE =  al-Qawl al-jāmiʻ fī tārīkh Dimnāt wa-mā waqaʻa fīhā mina al-waqāʼiʻ / taʼlīf al-Ḥājj Aḥmad Najīb al-Dimnātī ; ḍabaṭa al-naṣṣ wa-qaddama lah Aḥmad bin Muḥammad ʻAmmālak
+SUBJECT = [Morocco] : [publisher not identified], 2012
+IMPRINT =  Marrākush : al-Maṭbaʻah wa-al-Wirāqah al-Waṭanīyah, 2012
+SUBJECT = Dimnāt (Morocco) History
+
+OCLC # = 715108760.
+CALL # = DT346.W37 S48 2010.
+AUTHOR =  Shukāk, Ṣāliḥ
+TITLE =  al-Maghrib al-ʻamīq : Wardīghah al-kubrá, 1873-1956 : musāhamah fī dirāsat tārīkh al-jihāt bi-al-Maghrib al-muʻāṣir / Ṣāliḥ Shukāk ; taqdīm Muḥammad Kanbīb
+IMPRINT =  al-Rabāṭ : Dār Abī Raqrāq lil-Ṭibāʻah wa-al-Nashr, 2010
+SUBJECT = Wardīghah (Morocco) History 20th century
+
+OCLC # = 824512150.
+CALL # = GN475.6 .S53 2011.
+AUTHOR =  Shamʻāwī, Samīrah, author
+TITLE =  al-ʻAyn al-shirrīrah fī al-thaqāfah al-ʻArabīyah al-Islāmīyah : muqārabat ithnū - taḥlīl nafsīyah / Samīrah Shamʻāwī
+SUBJECT = [Morocco] : [publisher not identified], 2011
+SUBJECT = Rabat : Rabat Net Maroc, 2011
+SUBJECT = Evil eye Arab countries
+SUBJECT = Evil eye Islamic countries
+SUBJECT = Superstition Arab countries
+SUBJECT = Superstition Islamic countries
+SUBJECT = Psychoanalysis Arab countries
+SUBJECT = Psychoanalysis Islamic countries
+
+OCLC # = 823228717.
+CALL # = GR353.3 .B36 2011.
+AUTHOR =  Bannīs, ʻAbd al-Ḥayy, author
+TITLE =  Arwaʻ al-ḥikāyāt min afwāh al-jaddāt / ʻAbd al-Ḥayy Bannīs
+IMPRINT =  al-Rabāṭ : Dār al-Amān, 2011
+SUBJECT = Folklore Morocco
+SUBJECT = Tales Morocco History and criticism
+SUBJECT = Folk literature, Arabic Morocco
+
+OCLC # = 823579905.
+CALL # = GR355 .S29 2012.
+AUTHOR =  Sayyid, ʻAbd al-Ḥakīm Khalīl
+TITLE =  Maẓāhir al-iʻtiqād fī al-awliyāʼ : dirāsah lil-muʻtaqadāt al-shaʻbīyah fī Miṣr / taʼlīf ʻAbd al-Ḥakīm Khalīl Sayyid
+IMPRINT =  al-Qāhirah : al-Hayʼah al-Miṣrīyah al-ʻĀmmah lil-Kitāb, 2012
+SUBJECT = Folklore Egypt
+SUBJECT = Superstition Egypt
+SUBJECT = Muslim saints Egypt
+SUBJECT = Egypt Social life and customs
+
+OCLC # = 825563872.
+CALL # = GT3913.83.A2 A233 2012.
+AUTHOR =  ʻAbd al-Majīd, Sharīf, author
+TITLE =  al-Ḥurrīyah jāyyah lābud : jirāfītī al-Altirās = Graffiti Ultras / Sharīf ʻAbd al-Majīd
+IMPRINT =  al-Qāhirah : Dār Nahḍat Miṣr lil-Nashr, 2012
+SUBJECT = Graffiti Egypt Pictorial works
+SUBJECT = Street art Egypt Pictorial works
+SUBJECT = Soccer fans Egypt Graffiti Pictorial works
+
+OCLC # = 62253976.
+CALL # = HC415.3 .Y86 2003.
+AUTHOR =  Yūshaʻ, Aḥmad Hāshim
+TITLE =  ʻAwlamat al-iqtiṣād al-Khalījī : qirāʼah lil-tajribah al-Baḥraynīyah / Aḥmad Hāshim al-Yūshaʻ
+IMPRINT =  Bayrūt : al-Muʼassasah al-ʻArabīyah lil-Dirāsāt wa-al-Nashr, 2003
+SUBJECT = Persian Gulf States Economic conditions
+SUBJECT = Bahrain Economic conditions
+SUBJECT = Globalization Economic aspects Persian Gulf States
+SUBJECT = Globalization Economic aspects Bahrain
+
+OCLC # = 56074435.
+CALL # = HC415.38 .Y87 2002.
+AUTHOR =  Yūshaʻ, Aḥmad Hāshim
+SUBJECT = Maʻālim fī al-iṣlāḥ al-shāmil : mashrūʻ malik al-Baḥrayn namūdhajan / Aḥmad Hāshim al-Yūshaʻ
+IMPRINT =  Bayrūt : al-Muʼassasah al-ʻArabīyah lil-Dirāsāt wa-al-Nashr, 2002
+SUBJECT = Bahrain Economic conditions
+SUBJECT = Bahrain Economic policy
+
+OCLC # = 824728091.
+CALL # = HC815 .B85 2013.
+AUTHOR =  Būkbūs, Saʻdūn
+TITLE =  al-Iqtiṣād al-Jazāʼirī : muḥāwalatān min ajl al-tanmiyah, 1962-1989,1990-2005 / iʻdād Saʻdūn Būkbūs
+IMPRINT =  al-Qāhirah : Dār al-Kitāb al-Ḥadīth, 2013
+SUBJECT = Algeria Economic conditions 20th century
+SUBJECT = Algeria Economic policy 20th century
+
+OCLC # = 796429733.
+CALL # = HE8700.9.Q22 A28 2012.
+AUTHOR =  Abū al-Rubb, Muḥammad
+TITLE =  al-Jazīrah wa-Qaṭar : khiṭābāt al-siyāsah wa-siyāsāt al-khiṭāb / Muḥammad Aḥmad Muḥammad Abū al-Rubb
+IMPRINT =  al-Dār al-Bayḍāʼ : Afrīqiyā al-Sharq, 2012
+SUBJECT =  Al Jazeera (Television network)
+SUBJECT = Mass media Political aspects Qatar
+
+OCLC # = 827539146.
+CALL # = HG172.N33 M57 2012.
+AUTHOR =  Miṣrī, Shārl Fuʼād, author
+TITLE =  al-Ab al-rūḥī : asrār ḥayāt Yūsuf Nadā, al-mufawuḍ al-siyāsī lil-Ikhwān al-Muslimīn / Shārl Fuʼād al-Miṣrī
+IMPRINT =  al-Muhandisīn, al-Jīzah : Dār Nahḍat Miṣr lil-Nashr, 2012
+SUBJECT = Nada, Youssef, 1931-
+SUBJECT = Capitalists and financiers Egypt Biography
+SUBJECT = Muslim businesspeople Egypt Biography
+SUBJECT =  Jamʻīyat al-Ikhwān al-Muslimīn (Egypt)
+SUBJECT = Islam and politics
+SUBJECT = Middle East Politics and government 1945-
+
+OCLC # = 795909585.
+CALL # = HQ1694.A53 Q27 2011.
+AUTHOR =  Qārah, Ḥayāt
+TITLE =  al-Nisāʼ fī faḍāʼ al-Baḥr al-Abyaḍ al-Mutawassiṭ : al-thaqāfah wa-al-mujtamaʻ fī al-ʻaṣr al-wasīṭ / Ḥayāt Qārah
+IMPRINT =  al-Rabāṭ : Dār Abī Raqrāq lil-Ṭibāʻah wa-al-Nashr, [2011]
+SUBJECT = Women Spain Andalusia
+SUBJECT = Women Spain Andalusia Social conditions
+SUBJECT = Andalusia (Spain) Social life and customs
+SUBJECT = Andalusia (Spain) Civilization
+
+OCLC # = 759061833.
+CALL # = HX441 .S25 2011.
+AUTHOR =  Ṣaʻīb, Ḥasan
+TITLE =  Sayrūrat iʻādat bināʼ Munaẓẓamat ilá al-Amām : jadalīyat al-qaṭīʻah wa-al-istimrār / Ḥasan al-Ṣaʻīb
+IMPRINT =  [Dār al-Bayḍāʼ] : Manshūrāt al-Ufuq al-Dīmūqrāṭī, 2011- (al-Dār al-Bayḍāʼ : Maṭbaʻat Taysīr)
+SUBJECT = Munaẓẓamat "Ilá al-Amām."
+SUBJECT = Communist parties Morocco
+SUBJECT = Socialist parties Morocco
+SUBJECT = Communism Morocco History
+SUBJECT = Socialism Morocco History
+SUBJECT = Radicalism Morocco
+VOLUME = v.1
+
+OCLC # = 825795457.
+CALL # = JA81 .A23 2012.
+AUTHOR =  ʻAbd, ʻAbd al-Ḥakīm, author
+TITLE =  al-Fikr al-siyāsī al-gharbī wa-al-qawmīyah al-muḥāfiẓah fī al-sharq : mā ṣadaqa al-rabīʻ al-ʻArabī bi-marjaʻīyah Islāmīyah wa-ālīyāt taḥarrur: gharbīyah wa-ʻālamīyah / ʻAbd al-Ḥakīm al-ʻAbd
+IMPRINT =  al-Qāhirah : ʻAbd al-Ḥakīm al-ʻAbd, 2012
+SUBJECT = Political science History
+SUBJECT = World politics
+SUBJECT = Arab Spring, 2010-
+
+OCLC # = 823226946.
+CALL # = JC337 .A234 2012.
+AUTHOR =  ʻAbd al-Wahhāb, Ayman al-Sayyid
+TITLE =  al-Mujtamaʻ al-madanī wa-ʻamaliyat al-taḥawwul al-dīmuqrāṭī : dirāsat ḥālat al-Mamlakah al-Maghribīyah / Ayman al-Sayyid ʻAbd al-Wahhāb
+IMPRINT =  [Cairo] : Markaz al-Dirāsāt al-Siyāsīyah wa-al-Istirātījīyah, 2012
+SUBJECT = Civil society Morocco
+SUBJECT = Democracy Morocco
+SUBJECT = Morocco Politics and government
+
+OCLC # = 827554938.
+CALL # = JQ1850.A58 H87 2013.
+AUTHOR =  Ḥusayn, Yūsuf, 1951- author
+TITLE =  Maqālāt wa-kalimāt : al-Rabīʻ al-ʻArabī, al-thawrah, al-azmah al-raʼsmālīyah, al-ishtirākīyah / Yūsuf Ḥusayn
+IMPRINT =  al-Sūdān : al-Sharikah al-ʻĀlamīyah lil-Ṭibāʻah, 2013
+SUBJECT = Arab Spring, 2010-
+SUBJECT = Arab countries Politics and government 21st century
+SUBJECT = Capitalism Arab countries
+SUBJECT = Revolutions Arab countries History 21st century
+
+OCLC # = 823140267.
+CALL # = JQ1850.A91 A25 2011.
+AUTHOR =  ʻĀbidah, Muḥammad, 1972- author
+TITLE =  al-Iṣlāḥ, al-tanmīyah, al-dīmuqrāṭīyah bi-al-Waṭan al-ʻArabī : madkhal li-qirāʼat rabīʻ al-thawrāt al-ʻArabīyah / Muḥammad al-ʻĀbidah
+IMPRINT =  al-Rabāṭ : Dār al-Salām lil-Ṭibāʻah wa-al-Nashr wa-al-Tawzīʻ, 2011
+SUBJECT = Arab Spring, 2010-
+SUBJECT = Arab countries Reform 21st century
+SUBJECT = Arab countries Development 21st century
+SUBJECT = Democratization Arab countries 21st century
+SUBJECT = Arab countries Politics and government 21st century
+
+OCLC # = 825562465.
+CALL # = JQ1850.A91 A854 2012.
+AUTHOR =  ʻĀṭif, Muḥammad, 1991- author
+TITLE =  al-Tayyārāt al-Islāmīyah wa-al-thawrāt al-ʻArabīyah : Miṣr, Tūnis, Sūriyā / Muḥammad ʻĀṭif
+IMPRINT =  al-Qāhirah : Dār Uktub lil-Nashr wa-al-Tawzīʻ, 2012
+SUBJECT = Islamic fundamentalism Arab countries
+SUBJECT = Islamic fundamentalism Egypt
+SUBJECT = Islamic fundamentalism Tunisia
+SUBJECT = Islamic fundamentalism Syria
+SUBJECT = Islam and politics Arab countries
+SUBJECT = Revolutions Arab countries History 21st century
+SUBJECT = Arab Spring, 2010-
+SUBJECT = Egypt History Protests, 2011-
+SUBJECT = Tunisia History Demonstrations, 2010-
+SUBJECT = Syria History Protests, 2011-
+
+OCLC # = 823226968.
+CALL # = JQ3231 .B254 2013.
+AUTHOR =  Balḥājj, Ṣāliḥ, 1948-
+TITLE =  al-Niẓām al-siyāsī al-Jazāʼirī min 1962 ilá 1978 : al-sulṭah, al-muʼassasāt, al-iqtiṣād wa-al-siyāsah, al-aydīyūlūjiyā / iʻdād Ṣāliḥ Balḥājj
+IMPRINT =  Madīnat Naṣr, al-Qāhirah : Dār al-Kitāb al-Ḥadīth, 2013
+SUBJECT = Algeria Politics and government 1962-1990
+
+OCLC # = 824456294.
+CALL # = JQ3946 .M37 2011.
+AUTHOR =  Masʻūdī, Amīnah, author
+TITLE =  Hawāmish al-taghyīr al-siyāsī fī al-Maghrib / Amīnah al-Masʻūdī
+IMPRINT =  [Casablanca] : Muʼassasat Kūnrād Adināwar, 2011
+SUBJECT =  al-Dār al-Bayḍāʼ : Maṭbaʻat al-Najāḥ al-Jadīdah, 2011
+SUBJECT = Cabinet officers Morocco
+SUBJECT = Morocco Politics and government 21st century
+
+OCLC # = 824510202.
+CALL # = JQ3949.A8 A333 2011.
+AUTHOR =  ʻAqabānī, Raddād, author
+TITLE =  ʻAlá hāmish asāṭīr jamāʻat Binkīrān : mudhakkirāt Ḥizb al-ʻAdālah wa-al-Tanmīyah bidāyah wa-nihāyah / Raddād al-ʻAqabānī
+SUBJECT = [Morocco] : [publisher not identified], 2011
+IMPRINT =  al-Qunayṭirah : Maṭbaʻah al-Sarīʻah, 2011
+SUBJECT =  Ḥizb al-ʻAdālah wa-al-Tanmiyah (Morocco)
+SUBJECT = Political parties Morocco
+SUBJECT = Morocco Politics and government
+
+OCLC # = 825555159.
+CALL # = JQ3981.A58 M87 2013.
+AUTHOR =  Mūsá, ʻAbd al-ʻAzīz Muḥammad, 1965- author
+TITLE =  Ṣafaḥāt min tārīkh al-Sūdān : dirāsah lil-tārīkh al-siyāsī wa-al-iqtiṣādī wa-al-ijtimāʻī qadīman wa-ḥadīthan / ʻAbd al-ʻAzīz Muḥammad Mūsá Isḥāq
+IMPRINT =  al-Haram : al-Dār al-ʻĀlamīyah lil-Nashr wa-al-Tawzīʻ, 2013
+SUBJECT = Sudan Politics and government
+SUBJECT = Sudan Economic conditions
+SUBJECT = Sudan Social conditions
+
+OCLC # = 774493140.
+CALL # = KBP64 .M54 2011.
+AUTHOR =  Mīghā, ʻAbd al-Raḥmān Muḥammad
+TITLE =  al-Ḥarakah al-fiqhīyah wa-rijāluhā fī al-Sūdān al-gharbī : min al-qarn 8 ilá al-qarn 13 al-Hijrī / taʼlīf ʻAbd al-Raḥmān Muḥammad Mīghā
+IMPRINT =  [Rabat], al-Mamlakah al-Maghribīyah : Wizārat al-Awqāf wa-al-Shuʼūn al-Islāmīyah, 2011
+SUBJECT = Islamic law Africa, West
+SUBJECT = Islamic learning and scholarship Africa, West History
+SUBJECT = Muslim scholars Africa, West Biography
+SUBJECT = Africa, West History To 1884
+
+OCLC # = 759061909.
+CALL # = KBP320.I23 A33 2011.
+AUTHOR =  Ibn Abī Zayd al-Qayrawānī, ʻAbd Allāh ibn ʻAbd al-Raḥmān, 10th cent
+TITLE =  al-Dhabb ʻan madhhab Mālik : fī ghayr shayʼ min uṣūlih, wa-baʻḍ masāʼil min furūʻih, wa-kashf mā labbasa bi-hi baʻḍ ahl al-khilāf, wa-jahilahu min maḥājj al-aslāf / taʼlīf Abī Muḥammad ʻAbd Allāh ibn Abī Zayd al-Qayrawānī ; dirāsat wa-taḥqīq Muḥammad al-ʻAlamī
+IMPRINT =  al-Rabāṭ : Markaz al-Dirāsāt wa-al-Abḥāth wa-Iḥyāʼ al-Turāth, al-Rābiṭah al-Muḥammadīyah lil-ʻUlamāʼ, 2011
+SUBJECT = Islamic law Early works to 1800
+SUBJECT = Malikites Early works to 1800
+VOLUME = v.2
+VOLUME = v.1
+
+OCLC # = 824455990.
+CALL # = KBP440.55.I258 A36 2011.
+AUTHOR =  Tamsamānī, Muḥammad al-Idrīsī, author
+TITLE =  Manhajīyat al-Imām Mālik al-uṣūlīyah : khaṣāʼiṣuhā wa-āthāruhā / taʼlīf Muḥammad al-Tamsamānī al-Idrīsī
+SUBJECT = [Tétouan] : [publisher not identified], 2011
+IMPRINT =  Tiṭwān : Maṭābiʻ al-Shuyūkh, 2011
+SUBJECT =  Mālik ibn Anas, d. 795
+SUBJECT = Malikites
+SUBJECT = Islamic law Interpretation and construction
+
+OCLC # = 819531005.
+CALL # = KBP440.55.I269 B83 2011.
+AUTHOR =  Būdashīsh, Munīr al-Qādirī
+TITLE =  al-Fikr al-uṣūlī bi-al-Andalus fī al-qarn al-thāmin al-Hijrī wa-isʹhām Ibn Juzzay fīh / taʼlīf Munīr al-Qādirī Būdashīsh
+IMPRINT =  al-Rabāṭ : Markaz al-Dirāsāt wa-al-Abḥāth wa-Iḥyāʼ al-Turāth, Rābiṭah al-Muḥammadīyah lil-ʻUlamāʼ, 2011
+SUBJECT =  Ibn Juzayy, Muḥammad ibn Aḥmad, 1294-1340
+SUBJECT = Islamic law Interpretation and construction
+SUBJECT = Islamic law Spain Andalusia History
+SUBJECT = Malikites
+
+OCLC # = 774493141.
+CALL # = KBP440.55.K43 A3525 2011.
+AUTHOR =  ʻĀjī, Muḥammad
+TITLE =  al-Mukhtaṣar al-Khalīlī wa-atharuhu fī al-dirāsāt al-muʻāṣirah : namūdhaj al-qānūn al-madanī al-Maghribī / taʼlīf Muḥammad al-ʻĀjī
+IMPRINT =  [Rabat] : Wizārat al-Awqāf wa-al-Shuʼūn al-Islāmīyah, 2011
+IMPRINT =  Khalīl ibn Isḥāq al-Jundī, d. 1365? Mukhtaṣar
+SUBJECT = Islamic law Interpretation and construction Early works to 1800
+SUBJECT = Malikites Morocco Early works to 1800
+SUBJECT = Civil law Morocco
+
+OCLC # = 823044048.
+CALL # = KBP470 .A46 2011.
+AUTHOR =  ʻAmmūr, ʻAbd al-Ḥayy, author
+TITLE =  Turāthunā al-fiqhī wa-ḍarūrat al-tajdīd / ʻAbd al-Ḥayy ʻAmmūr
+SUBJECT = Fès : [publisher not identified, 2011]
+SUBJECT = Law reform
+SUBJECT = Islamic law
+SUBJECT = Islam 20th century
+
+OCLC # = 825771252.
+CALL # = KBP543.954 .A45 2013.
+AUTHOR =  ʻAllām, Shawqī Ibrāhīm ʻAbd al-Karīm, author
+TITLE =  al-Wilāyah fī ʻaqd al-nikāḥ fī al-fiqh al-Islāmī : dirāsah muqāranah / Shawqī Ibrāhīm ʻAbd al-Karīm ʻAllām
+IMPRINT =  al-Iskandarīyah : Maktabat al-Wafāʼ al-Qānūnīyah, 2013
+SUBJECT = Guardian and ward (Islamic law)
+SUBJECT = Marriage (Islamic law)
+SUBJECT = Islamic law
+
+OCLC # = 825769605.
+CALL # = KBP632.3 .R54 2013.
+AUTHOR =  Rifāʻī, ʻIzzat Ismāʻīl ʻAbd al-Ghanī, author
+TITLE =  al-Istikhlāf fī al-ḥuqūq wa-atharuh ʻalá al-manāfiʻ wa-al-aʻyān fī al-fiqh al-Islāmī : dirāsah muqāranah / ʻIzzat Ismāʻīl ʻAbd al-Ghanī al-Rifāʻī
+IMPRINT =  al-Iskandarīyah : Maktabat al-Wafāʼ al-Qānūnīyah, 2013
+SUBJECT = Inheritance and succession (Islamic law)
+SUBJECT = Property (Islamic law)
+
+OCLC # = 823591683.
+CALL # = KBP940.2 .J39 2012.
+AUTHOR =  Jawād, Murīd, author
+TITLE =  al-Bunūk al-Islāmīyah fī ḍawʼ al-mustajaddāt al-tanẓīmīyah lil-muntajāt al-tamwīlīyah bi-al-Maghrib / Murīd Jawād ; taqrīẓ Muḥammad Fatḥ Allāh Asṭīrī
+SUBJECT = [Rabat?] : [publisher not identified], 2012
+IMPRINT =  al-Muḥammadīyah : al-Muttaqī Brīntir, 2012
+SUBJECT = Banks and banking Religious aspects Islam
+SUBJECT = Banks and banking Morocco
+SUBJECT = Economics Religious aspects Islam
+SUBJECT = Banking law (Islamic law)
+SUBJECT = Banking law Morocco
+
+OCLC # = 794778725.
+CALL # = KBP1049 .S264 2012.
+AUTHOR =  Samḥān, Ḥusayn Muḥammad
+TITLE =  Idārat al-istithmār fī al-maṣārif al-Islāmīyah / Ḥusayn Muḥammad Samḥān, ʻAbd al-Ḥamīd Abū Ṣaqrī, Mūsá ʻUmar Mubārak
+IMPRINT =  al-Qāhirah : Jāmiʻat al-Duwal al-ʻArabīyah, al-Munaẓẓamah al-ʻArabīyah lil-Tanmiyah al-Idārīyah, 2012
+SUBJECT = Investments (Islamic law)
+SUBJECT = Banking law (Islamic law)
+SUBJECT = Banks and banking Religious aspects Islam
+
+OCLC # = 786270396.
+CALL # = KBP2101 .B85 2011.
+AUTHOR =  Būkīr, ʻAbd al-Majīd
+TITLE =  al-Sulṭah al-siyāsīyah wa-niẓām al-ḥukm fī al-fiqh al-dustūrī al-Islāmī : dirāsah fī al-uṣūl wa-al-mumārasah / ʻAbd al-Majīd Būkīr
+IMPRINT =  al-Rabāṭ : Nashr wa-tawzīʻ Maktabat Dār al-Salām, 2011
+SUBJECT = Constitutional law (Islamic law)
+SUBJECT = Islam and state
+SUBJECT = Islam and politics
+
+OCLC # = 827335250.
+CALL # = KBP3791 .A93 2013.
+AUTHOR =  ʻAwaḍ, Ramzī Riyāḍ, author
+TITLE =  Naḥwá niẓām jināʼī Islāmī mutakāmil / Ramzī Riyāḍ ʻAwaḍ
+IMPRINT =  al-Qāhirah : Dār al-Fikr al-ʻArabī, 2013
+SUBJECT = Criminal law (Islamic law)
+SUBJECT = Criminal law
+
+OCLC # = 824429364.
+CALL # = LA1943 .L35 2011.
+AUTHOR =  Lakhlūfī, ʻAbd Allāh, author
+TITLE =  al-Hadr al-jāmiʻī : asbāb tadahwur al-mustawá al-lughawī wa-al-maʻrifī li-khirrījī al-jāmiʻāt / ʻAbd Allāh Lakhlūfī
+SUBJECT = [Casablanca?] : [publisher not identified], 2011
+IMPRINT =  al-Rabāṭ : Maṭbaʻat al-Umnīyah, 2011
+SUBJECT = Education, Higher Morocco
+SUBJECT = Education Morocco
+SUBJECT = Language and culture Morocco
+
+OCLC # = 824170334.
+CALL # = LB1028.3 .M37 2011.
+AUTHOR =  Mashshāṭ, Nūr al-Dīn, author
+TITLE =  al-Madrasah al-Maghribīyah wa-taknūlūjīyā al-maʻlūmāt wa-al-ittiṣālāt / Nūr al-Dīn Mashshāṭ ; [taqdīm Aḥmad Ūzī]
+SUBJECT = [Casablanca?] : Majjalat ʻUlūm al-Tarbiyah, 2011
+IMPRINT =  al-Dār al-Bayḍāʼ : Maṭbaʻat al-Najāḥ al-Jadīdah, 2011
+SUBJECT = Educational technology Study and teaching Morocco
+SUBJECT = Electronic data processing Study and teaching Morocco
+SUBJECT = Computer-assisted instruction Study and teaching Morocco
+SUBJECT = Education Morocco Data processing
+
+OCLC # = 824738837.
+CALL # = M1838.M67 A83 2010.
+AUTHOR =  Aṣbahānī, Mawlāy al-Ṭāhir, author
+TITLE =  Lammā ghanná al-Maghrib : Mawlāy al-Ṭāhir al-Aṣbahānī wa-Jīl Jīlālah / Mawlāy al-Ṭāhir al-Aṣbahānī, [al-ʻArabī Riyāḍ]
+SUBJECT = [Ṭanjah?] : [publisher not identified], 2010
+IMPRINT =  Ṭanjah : Sulaykī Ikhwān, 2010
+SUBJECT = Folk music Morocco
+SUBJECT = Songs, Arabic Morocco
+SUBJECT = Arabs Morocco Music
+SUBJECT = Popular music Arab countries
+SUBJECT =  Jīl Jīlāla (Musical group)
+
+OCLC # = 823766196.
+CALL # = ML3758.M8 S58 2012.
+AUTHOR =  Shuqayr, Muḥammad, author
+TITLE =  al-Naṣṣ al-ghināʼī bi-al-Maghrib : bayna bināʼ al-dawlah wa-tamjīd al-sulṭah / Muḥammad Shuqayr
+IMPRINT =  al-Dār al-Bayḍāʼ : Afrīqiyā al-Sharq, [2012]
+SUBJECT = ©2012
+SUBJECT = National songs Morocco History and criticism
+SUBJECT = Patriotic music Morocco History and criticism
+
+OCLC # = 794320624.
+CALL # = NA6090.2.S25 S25 2011.
+AUTHOR =  Sālim, ʻAbd al-ʻAzīz Ṣalāḥ
+TITLE =  al-Āthār al-Islāmīyah fī madīnatay Salā wa-Ribāṭ al-Fatḥ bi-al-Mamlakah al-Maghribīyah / ʻAbd al-ʻAzīz Ṣalāḥ Sālim ; taqdīm ʻAbbās al-Jarrārī
+IMPRINT =  al-Rabāṭ : Manshūrāt al-Maʻārif, Dār Nashr al-Maʻrifah, 2011
+SUBJECT = Islamic architecture Morocco Salé
+SUBJECT = Islamic architecture Morocco Rabat
+SUBJECT = Salé (Morocco) Antiquities
+SUBJECT = Rabat (Morocco) Antiquities
+
+OCLC # = 810553049.
+CALL # = P95.82.M67 A99 2011.
+TITLE =  Ayy dawr lil-ṣiḥāfah fī al-taʼthīr ʻalá ajnidat al-siyāsāt al-ʻāmmah? : aʻmāl al-nadwah al-dawlīyah al-munaẓẓamah min ṭaraf Majmūʻat al-Baḥth ḥawla al-Idārah wa-al-Siyāsāt al-ʻĀmmah (GRAPP) bi-tārīkh 21-22 Uktūbir 2010 / al-munassiqān, Jārī Muṣṭafá, Idrīs Lakrīnī
+IMPRINT =  Marrākush : al-Maṭbaʻah wa-al-Warrāqah al-Waṭanīyah, 2011
+SUBJECT = Mass media Political aspects Morocco Congresses
+SUBJECT = Mass media Influence Congresses
+SUBJECT = Political planning Citizen participation Congresses
+
+OCLC # = 823635286.
+CALL # = P301.5.M48 I88 2011.
+TITLE =  al-Istiʻārah wa-al-maʻrifah / iʻdād Khalīd Barrādah wa ʻAbd al-Majīd Jaḥfah
+IMPRINT =  al-Dār al-Bayḍāʼ : Manshūrāt al-Mukhtabarāt, Mukhtabar al-Lisānīyāt wa-al-Tawāṣul, 2011
+SUBJECT = Metaphor
+SUBJECT = Cognition
+
+OCLC # = 823766271.
+CALL # = P302 .M842 2012.
+AUTHOR =  Muḥammad, Yaḥyá, author
+TITLE =  Jadalīyat al-khiṭāb wa-al-wāqiʻ / Yaḥyá Muḥammad
+IMPRINT =  al-Dār al-Bayḍāʼ : Afrīqiyā al-Sharq, [2012]
+SUBJECT = ©2012
+SUBJECT = Discourse analysis
+SUBJECT = Arabic literature History and criticism
+
+OCLC # = 782057705.
+CALL # = P306 .M36 2011.
+AUTHOR =  Maouhoub, Mohamed
+TITLE =  Tarjumān al-falsafah / Muḥammad Mawhūb
+IMPRINT =  [Casablanca : s.n.], 2011 (Marrākush : Maṭbaʻah wa-al-Warāqah al-Waṭanīyah)
+SUBJECT = Translating and interpreting
+SUBJECT = Translating and interpreting Philosophy
+SUBJECT = Translating and interpreting History
+
+OCLC # = 730929816.
+CALL # = PJ5 .D4.
+AUTHOR =  Ibn Maḥbūb, Bashīr ibn Muḥammad, d. ca. 908
+TITLE =  Thalāth rasāʼil Ibāḍīyah / li-Abī al-Mundhir Bashīr ibn Muḥammad Maḥbūb ; taḥqīq wa-taqdīm ʻAbd al-Raḥmān al-Sālimī, Wīlfird Mādilungh
+SUBJECT = Marburg : Deutsche Morgenländische Gesellschaft ; Wiesbaden : Harrassowitz, 2011
+SUBJECT = Ibadites Doctrines
+VOLUME = v.75
+
+OCLC # = 774493139.
+CALL # = PJ819.S9 R333 2011.
+AUTHOR =  Rabāṭī, Muḥammad ibn al-ʻArabī, d. 1868 or 9
+TITLE =  Fatḥ al-anwār fī bayān mā yuʻīnu ʻalá madḥ al-Nabī al-mukhtār / taʼlīf Muḥammad ibn al-ʻArabī al-Dalāʼī al-Rabāṭī ; dirāsat wa-al-taḥqīq Muḥammad al-Tuhāmī al-Ḥarrāq
+IMPRINT =  [Rabat] : Wizārat al-Awqāf wa-al-Shuʼūn al-Islāmīyah, 2011
+SUBJECT = Sufi literature Africa, North
+SUBJECT = Sufi literature Spain Andalusia
+SUBJECT = Sufi music Africa, North
+SUBJECT = Sufi music Spain Andalusia
+SUBJECT = Muḥammad, Prophet, -632 Poetry
+VOLUME = v.2
+VOLUME = v.1
+
+OCLC # = 247966715.
+CALL # = PJ5401 .S56.
+AUTHOR =  Sīmthā = Simta
+TITLE =  Duhūk, al-ʻIrāq : Dār al-Mashriq al-Thaqāfīyah, [2007]-
+SUBJECT = Syriac language Periodicals
+SUBJECT = Syriac language, Modern Periodicals
+SUBJECT = Syriac literature Iraq Periodicals
+SUBJECT = 2008 no.3
+SUBJECT = 2007 no.2
+SUBJECT = 2007 no.1
+
+OCLC # = 705559199.
+CALL # = PJ5493.A7 E55 2007.
+AUTHOR =  Elias, of Nisibis, 975-
+TITLE =  al-Turjumān = Tarjamāna / Īliyā Bar Shīnāyā ; taḥqīq Binyāmīn Ḥaddād
+IMPRINT =  Dikūk : Dār al-Mashriq al-Thaqāfīyah, 2007
+SUBJECT = Syriac language, Modern Dictionaries Arabic
+
+OCLC # = 824359733.
+CALL # = PJ6064.I115 I26 2011.
+AUTHOR =  Ibn al-Shāṭṭ, Qāsim ibn ʻAbd Allāh, 1245 or 6-1323, author
+TITLE =  Barnāmaj shuyūkh Ibn Abī al-Rabīʻ al-Sabtī ʻUbayd Allāh ibn Aḥmad ibn ʻUbayd Allāh al-Qurashī al-Umawī al-ʻUthmānī, 599-688 H / takhrīj Qāsim ibn ʻAbd Allāh ibn al-Shāṭṭ al-Sabtī ; qaraʼahu wa-ʻallaqa ʻalayhi al-ʻArabī al-Dāʼiz al-Faryāṭī
+IMPRINT =  al-Rabāṭ : Markaz al-Dirāsāt wa-al-Abḥāth wa-Iḥyāʼ al-Turāth, al-Rābiṭah al-Muḥammadīyah lil-ʻUlamāʼ, 2011
+SUBJECT =  Ibn Abī al-Rabīʻ, ʻUbayd Allāh ibn Aḥmad, 1203-1289
+SUBJECT = Philologists Islamic Empire Biography
+SUBJECT = Arabic language Grammar History
+
+OCLC # = 813312263.
+CALL # = PJ6064.J8 H87 2005.
+AUTHOR =  Ḥusayn, Naṣr al-Dīn Ibrāhīm Aḥmad, 1956-
+TITLE =  Nazạrīyat al-uslūb al-adabī ʻinda al-Imām ʻAbd al-Qāhir al-Jurjānī / Nasṛ al-Dīn Ibrāhīm Ahṃad Hụsayn
+IMPRINT =  Kwālā Lambūr : al-Jāmiʻah al-Islāmīyah al-ʻĀlamīyah Fī Mālīzyā, 2005
+SUBJECT =  Jurjānī, ʻAbd al-Qāhir ibn ʻAbd al-Raḥmān, d. 1078?
+SUBJECT = Arabic language Grammar
+SUBJECT = Arabic language Rhetoric
+SUBJECT = Arabic literature 750-1258 History and criticism
+
+OCLC # = 778898365.
+CALL # = PJ6073 .M37 2011.
+TITLE =  Masāʼil fī al-lisānīyāt al-ʻArabīyah / iʻdād ʻAbd al-Wāḥid Khayrī wa-ʻAbd al-Majīd Juḥfah wa-Muṣṭafá Rashād
+IMPRINT =  al-Dār al-Bayḍāʼ : Manshūrāt al-Mukhtabarāt, Mukhtabar al-Lisānīyāt wa-al-Tawāṣul, 2011
+SUBJECT = Arabic language
+SUBJECT = Arabic language Grammar
+SUBJECT = Arabic language Verb
+
+OCLC # = 823510184.
+CALL # = PJ6121.35 .W33 2011.
+AUTHOR =  Wadghīrī, ʻAbd al-ʻĀlī, author
+TITLE =  al-Lughah al-ʻArabīyah wa-al-thaqāfah al-Islāmīyah bi-al-Gharb al-Afrīqī : wa-malāmiḥ min al-taʼthīr al-Maghribī / ʻAbd al-ʻAlī al-Wadghīrī
+IMPRINT =  al-Rabāṭ : Kullīyat al-Ādāb wa-al-ʻUlūm al-Insānīyah, 2011
+SUBJECT = Arabic language Africa, West Influence
+SUBJECT = Islamic civilization Influence
+SUBJECT = Islam Africa, West
+
+OCLC # = 823605223.
+CALL # = PJ6770.22 .B35 2011.
+AUTHOR =  Balqazīz, Muḥammad bin ʻAbd al-Jalīl
+TITLE =  al-Mufradāt al-dārijah min al-ʻArabīyah al-dārijah al-Maghribīyah : bi-ṭarīqat al-taʼthīr = Terms dialectaux de l'arabe dialectal marocain : par la méthode étymologique / Muḥammad Balqazīz wa ʻAbd al-Raʼūf Balqazīz
+SUBJECT = [Casablanca] : [publisher not identified], 2011
+IMPRINT =  al-Dār al-Bayḍāʼ : Maṭbaʻat al-Najāḥ al-Jadīdah, 2011
+SUBJECT = Arabic language Dialects Morocco Terms and phrases
+SUBJECT = Arabic language Dialects Morocco Etymology
+
+OCLC # = 823745652.
+CALL # = PJ7505.5.U43 A3 2012.
+AUTHOR =  ʻUmarī, Muḥammad, author
+TITLE =  Zaman al-ṭalabah wa-al-ʻaskar : sīrah dhātīyah / Muḥammad al-ʻUmarī
+IMPRINT =  al-Dār al-Bayḍāʼ : Markaz Muḥammad Binsaʻīd Āyt Īdir, 2012
+SUBJECT =  ʻUmarī, Muḥammad
+SUBJECT = Critics Morocco Biography
+
+OCLC # = 824420111.
+CALL # = PJ7510 .G48 2012.
+AUTHOR =  Ghufayrī, Khadījah, author
+TITLE =  Sulṭat al-lughah bayna fiʻlī al-taʼlīf wa-al-talaqqī / Khadījah Ghufayrī
+IMPRINT =  al-Dār al-Bayḍāʼ : Afrīqiyā al-Sharq, 2012
+SUBJECT = ©2012
+SUBJECT = Arabic literature History and criticism
+SUBJECT = Reader-response criticism
+
+OCLC # = 827086280.
+CALL # = PJ7510 .U24 2012.
+AUTHOR =  ʻUbayd, Muḥammad Ṣābir
+TITLE =  al-Mughāmarah al-jamālīyah lil-naṣṣ al-adabī : dirāsah mawsūʻīyah / Muḥammad Ṣābir ʻUbayd
+IMPRINT =  al-Duqqī, al-Jīzah : al-Sharikah al-Miṣrīyah al-ʻĀlamīyah lil-Nashr, Lūnjmān ; Bayrūt : Maktabat Lubnān Nāshirūn, 2012
+SUBJECT = Arabic literature History and criticism
+
+OCLC # = 772982717.
+CALL # = PJ7519.E94 W34 2011.
+AUTHOR =  Wāḥī, Muḥammad, 1931-
+TITLE =  ʻUyūn Āl-ʻuyūn / Muḥammad Wāḥī
+IMPRINT =  al-Rabāṭ : Manshūrāt Marsam, 2011-
+SUBJECT = Eye in literature
+SUBJECT = Arabic poetry Morocco History and criticism
+VOLUME = v.1
+
+OCLC # = 826025301.
+CALL # = PJ7519.I84 H87 2008.
+AUTHOR =  Ḥusayn, Naṣr al-Dīn Ibrāhīm Aḥmad, 1956-
+TITLE =  Ishkālīyat al-iltizām al-Islāmī fī ḍawʼ al-qiṣṣah al-ʻArabīyah al-ḥadīthah : dirāsah naqdīyah taḥlīlīyah / al-Duktūr Naṣr al-Dīn Ibrāhīm Aḥmad Ḥusayn
+IMPRINT =  Kuwālā Lambūr : al-Jāmiʻah al-Islāmīyah al-ʻĀlamīyah bi-Mālīziyā, 2008
+SUBJECT = Islam and literature
+SUBJECT = Arabic fiction Arab countries History and criticism
+SUBJECT = Arabic fiction 20th century History and criticism
+
+OCLC # = 826025348.
+CALL # = PJ7519.I84 H873 2008.
+AUTHOR =  Ḥusayn, Naṣr al-Dīn Ibrāhīm Aḥmad, 1956-
+TITLE =  al-Adab al-Islāmī : dirāsah naẓarīyah wa-taṭbīqīyah / al-Duktūr Naṣr al-Dīn Ibrāhīm Aḥmad Ḥusayn
+IMPRINT =  Kuwālā Lambūr : al-Jāmiʻah al-Islāmīyah al-ʻĀlamīyah bi-Mālīziyā, 2008
+SUBJECT = Islamic literature, Arabic History and criticism
+
+OCLC # = 825996400.
+CALL # = PJ7519.N25 S53 2012.
+AUTHOR =  Shaḥḥāt, Muḥammad, author
+TITLE =  Sardiyāt badīlah / Muḥammad al-Shaḥḥāt
+IMPRINT =  al-Qāhirah : al-Hayʼah al-ʻĀmmah li-Quṣūr al-Thaqāfah, 2012
+SUBJECT = Narration (Rhetoric)
+SUBJECT = Arabic fiction 20th century History and criticism
+
+OCLC # = 826027046.
+CALL # = PJ7521 .H87 2008.
+AUTHOR =  Ḥusayn, Naṣr al-Dīn Ibrāhīm Aḥmad, 1956-
+TITLE =  al-Naqd al-manhajī f̄ī kutub ṭabaqāt al-shuʻarāʼ / al-Duktūr Naṣr al-Dīn Ibrāhīm Aḥmad Ḥusayn
+IMPRINT =  Kuwālā Lambūr : al-Jāmiʻah al-Islāmīyah al-ʻĀlamīyah bi-Mālīziyā, 2008
+SUBJECT = Arabic poetry 622-750 History and criticism
+SUBJECT = Poets, Arab 622-750 History and criticism
+
+OCLC # = 795014396.
+CALL # = PJ7538 .G38 2012.
+AUTHOR =  Gaṭṭ, Bū Salhām
+TITLE =  al-Wahm wa-al-ḥaqīqah-- falsafat ʻaṣrinā al-muʻāṣir wa-al-thawarāt al-shaʻbīyah al-ʻArabīyah bayna al-istiʻmār wa-al-istighlāl-- al-qamʻ wa-al-ḥurrīyah / Bū Salhām al-Gaṭṭ
+SUBJECT =  [Morocco : s.n.], 2012 (al-Qunayṭirah : al-Maṭbaʻah al-Sarīʻah)
+SUBJECT = Arabic literature History and criticism
+SUBJECT = Revolutions Arab countries
+SUBJECT = Government, Resistance to Arab countries
+SUBJECT = Democracy Arab countries
+SUBJECT = Social change Arab countries
+SUBJECT = Arab countries Politics and government
+SUBJECT = Revolutions in literature
+VOLUME = v.1-2
+
+OCLC # = 823766403.
+CALL # = PJ7541 .W37 2011.
+AUTHOR =  Warārī, ʻAbd al-Laṭīf, 1972- author
+TITLE =  Naqd al-īqāʻ : fī mafhūm al-īqāʻ wa-taʻbīrātuh al-jamālīyah wa-ālīyat talaqqīh ʻinda al-ʻArab / ʻAbd al-Laṭīf al-Warārī
+IMPRINT =  al-Rabāṭ : Dār Abī Raqrāq lil-Ṭibāʻah wa-al-Nashr wa-al-Tawzīʻ, 2011
+SUBJECT = Arabic poetry History and criticism
+SUBJECT = Arabic language Versification
+SUBJECT = Arabic language Rhythm
+
+OCLC # = 821271540.
+CALL # = PJ7561 .B7654 2012.
+AUTHOR =  Bū Sarīf, Ṣalāḥ, author
+TITLE =  Ḥadāthat al-kitābah fī al-shiʻr al-ʻArabī al-muʻāṣir / D. Ṣalāḥ Būsarīf
+IMPRINT =  al-Dār al-Bayḍāʼ : Afrīqiyā al-Sharq, [2012]
+SUBJECT = Arabic poetry 20th century History and criticism
+SUBJECT = Arabic poetry History and criticism Theory, etc
+
+OCLC # = 824455603.
+CALL # = PJ7565 .B87 2012.
+AUTHOR =  Burshīd, ʻAbd al-Karīm, author
+TITLE =  Falsafat al-taʻyīd al-iḥtifālī fī al-yawmī wa-fī mā warāʼ al-yawmī / ʻAbd al-Karīm Burshīd
+IMPRINT =  al-Dār al-Bayḍāʼ : Dār Tūbqāl lil-Nashr, 2012
+SUBJECT = Arabic drama 20th century History and criticism
+
+OCLC # = 823740652.
+CALL # = PJ7571 .J37 2011.
+AUTHOR =  Jarmūnī, Nūrah, author
+TITLE =  al-Shakhṣīyah fī mutakhayyal al-riwāyah al-nisāʼīyah al-ʻArabīyah / Nūrah al-Jarmūnī
+SUBJECT = [Fès?] : [publisher not identified], [2011]
+IMPRINT =  Fās : Maṭbaʻat Ānfū Brānt, [2011]
+SUBJECT = Arabic fiction Arab countries History and criticism
+SUBJECT = Arabic fiction Women authors History and criticism
+SUBJECT = Arabic fiction 20th century History and criticism
+SUBJECT = Arabs in literature
+SUBJECT = Characters and characteristics in literature
+
+OCLC # = 620108275.
+CALL # = PJ7571 .Y354 2010.
+AUTHOR =  Yaḥyá, Shawqī ʻAbd al-Ḥamīd
+TITLE =  al-Qiṣṣah al-qaṣīrah fī zaman al-riwāyah : dirāsah taṭbīqīyah / Shawqī ʻAbd al-Ḥamīd Yaḥyá
+IMPRINT =  al-Qāhirah : Markaz al-Ḥaḍārah al-ʻArabīyah, 2010
+SUBJECT = Short stories, Arabic History and criticism
+SUBJECT = Arabic fiction History and criticism
+SUBJECT = Short stories, Arabic
+
+OCLC # = 719630811.
+CALL # = PJ7677 .B84 2009.
+AUTHOR =  Būhrākah, Fāṭimah
+TITLE =  al-Mawsūʻah al-kubrá lil-shuʻarāʼ al-ʻArab, 1956-2006 / iʻdād wa-taqdīm Fāṭimah Būhrākah ; bi-riʻāyat Asmāʼ bint Ṣaqr al-Qāsimī
+IMPRINT =  al-Rabāṭ : Dār al-Tawḥīdī lil-Nashr wa-al-Tawzīʻ wa-Wasāʼiṭ al-Ittiṣāl, 2009- (Fās : Maṭbaʻat Ānfū Brānt)
+SUBJECT = Poets, Arab Biography
+SUBJECT = Arabic poetry 20th century History and criticism
+VOLUME = v.2
+VOLUME = v.1
+
+OCLC # = 823171870.
+CALL # = PJ7750.A25 S34 2011.
+TITLE =  Shurūḥ Andalusīyah ghayr maʻrūfah li-Saqṭ al-zand / qāma bi-ikhrājihā wa-al-taqdīm lahā Muḥammad Binsharīfah
+IMPRINT =  al-Dār al-Bayḍāʼ [publisher not identified], 2011
+SUBJECT = Abū al-ʻAlāʼ al-Maʻarrī, 973-1057. Saqt al-zand
+
+OCLC # = 800058031.
+CALL # = PJ7750.I17 Z68 2010.
+AUTHOR =  Lamḥaḍḍar, al-Muṣṭafá
+TITLE =  Ibn Darrāj al-Qasṭalī al-Andalusī (349-421 H Q/958-1030 M) bayna al-intiṣār wa-al-inkisār / al-Muṣṭafá Lamḥaḍḍar
+IMPRINT =  [Casablanca : s.n.], 2010 (Marrākush : Maṭbaʻah wa-al-Warāqah al-Waṭanīyah)
+SUBJECT =  Ibn Darrāj, Aḥmad ibn Muḥammad, 958-1030 Criticism and interpretation
+SUBJECT = Arabic poetry Spain Andalusia History
+
+OCLC # = 822223307.
+CALL # = PJ7750.M8 Z6357 2011.
+AUTHOR =  Ibn ʻAbd Rabbih, Muḥammad ibn ʻAlī, d. 1205 or 6
+TITLE =  Sharḥ al-mukhtār min shiʻr Abī al-Ṭayyib al-Mutanabbī / li-Ibn ʻAbd Rabbih al-ḥafīd ; qāma bi-ikhrājihi wa-al-taqdīm la-hu Muḥammad Bin-Sharīfah
+IMPRINT =  [Morocco] : Muḥammad Bin-Sharīfah, 2011 (al-Dār al-Bayḍāʼ : Maṭbaʻat al-Najāḥ al-Jadīdah)
+SUBJECT =  Mutanabbī, Abū al-Ṭayyib Aḥmad ibn al-Ḥusayn, 915 or 16-965 Criticism and interpretation Early works to 1800
+
+OCLC # = 759838288.
+CALL # = PJ7808.A3987 M853 2007.
+AUTHOR =  Abū al-Makārim, Saʻīd
+TITLE =  Mumayyizāt al-Islām wa-maḥāsinah / Saʻīd Abū al-Makārim
+SUBJECT =  Bayrūt : Dār al-Makārim li-Iḥyāʼ al-Turāth, 2007
+SUBJECT = Islam Essence, genius, nature Poetry
+
+OCLC # = 759828578.
+CALL # = PJ7808.A3987 N275 2007.
+AUTHOR =  Abū al-Makārim, Saʻīd
+TITLE =  Nāsikh al-burdah / Saʻīd Abū al-Makārim
+IMPRINT =  Bayrūt : Dār al-Makārim li-Iḥyāʼ al-Turāth, 2007
+SUBJECT = Muḥammad, Prophet, -632 Poetry
+SUBJECT = Laudatory poetry, Arabic
+
+OCLC # = 759834116.
+CALL # = PJ7808.A3987 W25 2007.
+AUTHOR =  Abū al-Makārim, Saʻīd
+TITLE =  Wa-intaṣara al-Ḥusayn / Saʻīd Abū al-Makārim
+IMPRINT =  Bayrūt : Dār al-Makārim li-Iḥyāʼ al-Turāth, 2007
+SUBJECT =  Ḥusayn ibn ʻAlī, d. 680 Poetry
+
+OCLC # = 759835720.
+CALL # = PJ7808.A3987 W255 2007.
+AUTHOR =  Abū al-Makārim, Saʻīd
+TITLE =  Wa-yatajallá al-Rasūl fī Karbalāʼ / Saʻīd Abū al-Makārim
+IMPRINT =  Bayrūt : Dār al-Makārim li-Iḥyāʼ al-Turāth, 2007
+SUBJECT = Muḥammad, Prophet, -632 Family Poetry
+SUBJECT = Ḥusayn ibn ʻAlī, -680 Poetry
+SUBJECT = Karbalāʼ, Battle of, Karbalāʼ, Iraq, 680 Poetry
+
+OCLC # = 795014268.
+CALL # = PJ7810.L3808 F56 2011.
+AUTHOR =  ʻAlawī al-Mudaghgharī, ʻAbd al-Kabīr, 1942-
+TITLE =  Fī mirʼātinā ʻālam ākhar : riwāyah min al-adab al-Ṣūfī / ʻAbd al-Kabīr al-ʻAlawī al-Mudaghgharī
+IMPRINT =  al-Rabāṭ : Dār al-Amān, [2011]
+
+OCLC # = 774493409.
+CALL # = PJ7816.A617 Z46 2012.
+AUTHOR =  Bannīs, Muḥammad
+TITLE =  Maʻa aṣdiqāʼ / Muḥammad Bannīs
+IMPRINT =  al-Dār al-Bayḍāʼ : Dār Tūbqāl lil-Nashr, 2012
+SUBJECT =  Bannīs, Muḥammad
+SUBJECT = Authors, Arab Morocco Biography
+SUBJECT = Arabic literature Morocco Miscellanea
+
+OCLC # = 793690602.
+CALL # = PJ7816.A65 Z54 2011.
+TITLE =  Aḥmad ʻAbd al-Salām al-Baqqālī : al-ibdāʻ wa-ishrāqātuh : dirāsāt wa-kalimāt taʼbīnīyah / tansīq Usāmah al-Zakārī, Muṣṭafá Zayyān
+IMPRINT =  Ṭanjah : Dār al-Nashr Sulaykī Ikhwān, 2011
+SUBJECT =  Baqqālī, Aḥmad ʻAbd al-Salām Criticism and interpretation
+SUBJECT = Poets, Arab Morocco Biography
+SUBJECT = Arabic literature Morocco History and criticism
+
+OCLC # = 827535827.
+CALL # = PJ7816.I52395 H33 2012.
+AUTHOR =  Bindārī, Ḥasan, author
+TITLE =  Ḥadāʼiq al-kharīf.. : riwāyah / Ḥasan al-Bindārī
+IMPRINT =  al-Qāhirah : Maktabat Būrṣat al-Kutub lil-Nashr wa-al-Tawzīʻ, 2012
+
+OCLC # = 825821654.
+CALL # = PJ7824.A31214 S84 2012.
+AUTHOR =  Fāḍil, Khalīl, 1948- author
+TITLE =  al-Ṣuffārah : riwāyah / Khalīl Fāḍil
+IMPRINT =  al-Qāhirah : Dār al-ʻUlūm, 2012
+
+OCLC # = 826452181.
+CALL # = PJ7824.U299 B36 2013.
+AUTHOR =  Fūdah, Ḥasan
+TITLE =  Banāt ḥāritinā : riwāyah / taʼlīf Ḥasan Fūdah
+IMPRINT =  al-Muhandisīn, al-Jīzah : Halā lil-Nashr wa-al-Tawzīʻ, 2013
+
+OCLC # = 825556969.
+CALL # = PJ7824.U299 H37 2013.
+AUTHOR =  Fūdah, Ḥasan, author
+TITLE =  Ḥarīm al-nūras : riwāyah / taʼlīf Ḥasan Fūdah
+IMPRINT =  al-Jīzah : Halā lil-Nashr wa-al-Tawzīʻ, 2013
+
+OCLC # = 823654799.
+CALL # = PJ7828 .B52 2011.
+AUTHOR =  Ḥabīb, Muḥammad, 1922- author
+SUBJECT = Poems
+TITLE =  Dīwān al-Furqānī / Muḥammad al-Ḥabīb al-Furqānī
+IMPRINT =  al-Dār al-Bayḍāʼ : Ittiṣṣālāt Sabū ; Marrākish : Muntadá ibn Tāshfīn, 2011
+
+OCLC # = 826452188.
+CALL # = PJ7832.A757 A73 2012.
+AUTHOR =  Ḥassūnah, Khalīl Ibrāhīm
+TITLE =  ʻArabat al-Būʻazīzī-- : riwāyah / Khalīl Ibrāhīm Ḥassūnah
+IMPRINT =  al-Qāhirah : Markaz al-Ḥaḍārah al-ʻArabīyah, 2012
+
+OCLC # = 823140184.
+CALL # = PJ7832 .A92 2010.
+AUTHOR =  Haybah, Muḥammad bin al-Shaykh Aḥmad, 1903- author
+SUBJECT = Poems
+TITLE =  Dīwān al-shaykh Muḥammad bin al-Shaykh Aḥmad al-Haybah / jamʻ wa-taḥqīq wa-taqdīm Māʼ al-ʻAynayn al-Niʻmah ʻAlī
+IMPRINT =  Tiznīt : Jamʻīyat al-Shaykh Māʼ al-ʻAynayn lil-Tanmīyah wa-al-Thaqāfah, 2010
+
+OCLC # = 823226916.
+CALL # = PJ7838.D7 Z523 2012.
+AUTHOR =  ʻAfīfī, Majdī
+TITLE =  Lughat al-aʻmāq al-baʻīdah : fann al-qiṣṣah al-qaṣīrah ʻinda Yūsuf Idrīs / Majdī al-ʻAfīfī
+IMPRINT =  [Cairo] : al-Majlis al-Aʻlá lil-Thaqāfah, 2012
+IMPRINT =  Idrīs, Yūsuf Criticism and interpretation
+SUBJECT = Short stories, Arabic 20th century History and criticism
+
+OCLC # = 824502905.
+CALL # = PJ7842.H2938 Z63 2011.
+SUBJECT = Gināwī, ʻAmr, author
+AUTHOR =  al-Faḍāʼ al-riwāʼī fī aʻmāl Saḥar Khalīfah / ʻAmr Gināwī
+SUBJECT = [Fès?] : [publisher not identified], 2011
+IMPRINT =  Fās : Maṭbaʻat Ānfū Brānt, 2011
+SUBJECT = Khalīfah, Saḥar Criticism and interpretation
+SUBJECT = Arabic fiction Palestine History and criticism
+SUBJECT = Space in literature
+
+OCLC # = 825776008.
+CALL # = PJ7846.A28 B57 2012.
+AUTHOR =  Madanī, Maḥrūs Hāshim, author
+TITLE =  Bīr al-ʻayn : riwāyah / Maḥrūs Hāshim al-Midanī
+IMPRINT =  al-Qāhirah : al-Hayʼah al-Miṣrīyah al-ʻĀmmah lil-Kitāb, 2012
+
+OCLC # = 827483995.
+CALL # = PJ7846.A46 Z775 2012.
+AUTHOR =  Nawraj, Ḥamdī Ibrāhīm, author
+TITLE =  al-Namaṭ al-lughawī fī lughat Najīb Maḥfūẓ / Ḥamdī Ibrāhīm al-Nawraj
+IMPRINT =  al-Duqqī, al-Jīzah : Sharikah al-Miṣrīyah al-ʻĀlamīyah lil-Nashr, Lūnjmān ; Bayrūt : Maktabat Lubnān Nāshirūn, 2012
+SUBJECT =  Maḥfūẓ, Najīb, 1911-2006 Literary style
+SUBJECT = Discourse analysis, Literary
+SUBJECT = Linguistics
+
+OCLC # = 795014287.
+CALL # = PJ7846.I739 Z46 2011.
+AUTHOR =  Miskīn, ʻAbd al-Jabbār
+TITLE =  Mahmūm bi-arḍihi wa-samāʼih : [al-sīrah al-dhātīyah] / ʻAbd al-Jabbār al-Miskīn
+IMPRINT =  Ṭanjah : [s.n.], 2011 (Ṭanjah : Maṭbaʻat Alṭūbrīs)
+SUBJECT =  Miskīn, ʻAbd al-Jabbār
+SUBJECT = Authors, Arab Morocco Biography
+
+OCLC # = 827086600.
+CALL # = PJ7862.A3 M25 2012.
+AUTHOR =  Saʻdāwī, Nawāl
+TITLE =  Malik wa-imraʼah wa-ilāh / [Nawāl al-Saʻdāwī]
+IMPRINT =  [Cairo] : Dār al-Rabīʻ al-ʻArabī, 2012
+
+OCLC # = 820557303.
+CALL # = PJ7862.H2168 K33 2012.
+AUTHOR =  Shalīḥ, Muṣṭafá
+TITLE =  Ka-anna al-nahr imraʼah-- lā tanām : shiʻr / Muṣṭafá al-Shalīḥ
+IMPRINT =  [Morocco] : Muṣṭafá al-Shalīḥ, 2012 (al-Rabāṭ : Maṭbaʻat al-Umnīyah)
+
+OCLC # = 822993444.
+CALL # = PJ7864.A352 A64 2012.
+AUTHOR =  Ṭāhā, Ibrāhīm al-Sayyid
+TITLE =  Aḥlām asīrah : riwāyah / bi-qalam Ibrāhīm al-Sayyid Ṭāhā
+IMPRINT =  al-Qāhirah : al-Dār al-Miṣrīyah al-Saʻūdīyah, 2012
+SUBJECT = Arabic fiction 21st century
+
+OCLC # = 825562589.
+CALL # = PJ7864.A367 L55 2012.
+AUTHOR =  Ṭahṭāwī, Maḥmūd Ramaḍān, 1962- author
+TITLE =  Lil-ʻishq awjāʻ.. wa-hadhihi minhā : riwāyah / taʼlīf Maḥmūd Ramaḍān al-Ṭahṭāwī ; dirāsah ʻAlāʼ al-Dīn Ramaḍān al-Sayyid
+IMPRINT =  al-Qāhirah : al-Hayʼah al-Miṣrīyah al-ʻĀmmah lil-Kitāb, 2012
+
+OCLC # = 784401136.
+CALL # = PJ7870.A497 I24 2011.
+AUTHOR =  Wālqāḍī, ʻUmar
+TITLE =  al-Ibḥār ilá Īthākā : riwāyah / ʻUmar Wālqāḍī
+IMPRINT =  [Morocco] : ʻUmar Wālqāḍī, 2011
+
+OCLC # = 823508000.
+CALL # = PJ7870.A67619 Z76 2011.
+TITLE =  Mutawwajan bi-al-farādah yaʼtī sufun laʼāliʼ ʻalá mawānī al-shāʻir al-bāḥith al-nāqid Aḥmad Bilḥāj Āyt Wārhām / [taʼlīf  jamāʻah min al-asātidhah ; taqdīm, tansīq wa-ikhrāj al-shāʻirah Najāt al-Zubāyir]
+IMPRINT =  [Marrakech] : Kitāb Afrūdīt, 2011
+IMPRINT =  Marrākush : al-Maṭbaʻah wa-al-Wirāqah al-Waṭanīyah, 2011
+SUBJECT =  Wārhām, Aḥmad Bilḥāj Āyt Criticism and interpretation
+SUBJECT = Arabic poetry Morocco History and criticism
+SUBJECT = Arabic poetry 20th century History and criticism
+
+OCLC # = 795014381.
+CALL # = PJ7874.U84 D57 2011.
+AUTHOR =  Yūsuf, Saʻdī
+TITLE =  Dīwān Ṭanjah : shiʻr / Saʻdī Yūsuf
+IMPRINT =  Ṭanjah : Sulaykī Ikhwān, 2011
+SUBJECT = Tangier (Morocco) Poetry
+
+OCLC # = 774493415.
+CALL # = PJ7908.B244 A74 2011.
+AUTHOR =  Abū Baghdād, Muḥammad al-Aḥmar
+TITLE =  Anā ḍidd al-ḥubb wa-al-ḥukūmah fī al-waṭan al-ʻArabī : majmūʻah qiṣaṣīyah / Muḥammad al-Aḥmar Abū Baghdād
+IMPRINT =  al-Dār al-Bayḍāʼ : Afrīqiyā al-Sharq, 2011
+SUBJECT = Short stories, Arabic 21st century
+
+OCLC # = 784401174.
+CALL # = PJ7910.L37 R34 2012.
+AUTHOR =  ʻAlamī, Murād
+TITLE =  al-Raḥīl damʻah musāfirah : riwāyah bi-al-lughah al-Maghribīyah al-dārijah / taʼlīf Murād ʻAlamī
+IMPRINT =  al-Ribāṭ : Dār Abī Raqrāq lil-Ṭibāʻah wa-al-Nashr, 2012
+
+OCLC # = 825823590.
+CALL # = PJ7914.Z32 A64 2013.
+AUTHOR =  ʻAzab, Muḥammad (Muḥammad al-Sayyid ʻAlī), author
+TITLE =  Arḥām samāwīyah : riwāyah / Muḥammad ʻAzab
+IMPRINT =  al-Qāhirah : Dār al-ʻUyūn lil-Nashr, 2013
+
+OCLC # = 822993452.
+CALL # = PJ7914.Z32 Q23 2012.
+AUTHOR =  ʻAzab, Muḥammad (Muḥammad al-Sayyid ʻAlī)
+TITLE =  Qabr rāḥīl : riwāyah / Muḥammad ʻAzab
+IMPRINT =  al-Qāhirah : Dār al-ʻAyn lil-Nashr, 2012
+SUBJECT = Arabic fiction 21st century
+
+OCLC # = 825823316.
+CALL # = PJ7932.U726 I26 2012.
+AUTHOR =  Ḥusām al-Dīn, Aḥmad, author
+TITLE =  Ibn al-jamāʻah : [riwāyah] / Aḥmad Ḥusām al-Dīn Sulaymān
+IMPRINT =  al-Qāhirah : Dār al-Miṣrī lil-Nashr wa-al-Tawzīʻ, 2012
+
+OCLC # = 824849062.
+CALL # = PJ7932.U729 R34 2012.
+AUTHOR =  Ḥusayn, ʻAmr
+TITLE =  al-Rahān : riwāyah mustawḥāh min a ḥdāth ḥaqīqīyah / ʻAmr Ḥusayn
+IMPRINT =  Madīnat Naṣr, al-Qāhirah : Dār Ibn al-Nafīs lil-Nashr wa-al-Tawzīʻ, 2012
+
+OCLC # = 784401105.
+CALL # = PJ7946.U219 M33 2012.
+AUTHOR =  Muʼadhdhin, ʻAbd al-Raḥīm
+TITLE =  Madīnat al-nuṣūṣ : nuṣūṣ masraḥīyah / ʻAbd al-Raḥīm Muʼadhdhin
+IMPRINT =  al-Rabāṭ : Dār al-Tawḥīdī, 2012
+
+OCLC # = 823505218.
+CALL # = PJ7952.U54 A64 2012.
+AUTHOR =  Nūmān, Nūrah Aḥmad
+TITLE =  Ajwān : qiṣṣah min al-khayāl al-ʻilmī / Nūrah Aḥmad al-Nūmān
+IMPRINT =  al-Jīzah : Dār Nahḍat Miṣr, 2012
+SUBJECT = Science fiction, Arabic 21st century
+
+OCLC # = 822993486.
+CALL # = PJ7952.U74 D38 2012.
+AUTHOR =  Nūr, Karīm
+TITLE =  Dawlat al-liwāʼ : riwāyah / Karīm Nūr
+IMPRINT =  al-Qāhirah : Dār Uktub lil-Nashr wa-al-Tawzīʻ, 2012
+SUBJECT = Arabic fiction 21st century
+
+OCLC # = 824502061.
+CALL # = PJ7960.A37 G48 2011.
+AUTHOR =  Rāḍī, Badīʻah
+TITLE =  Ghurabāʼ al-muḥīṭ : riwāyah / Badīʻah al-Rāḍī
+IMPRINT =  al-Rabāṭ : Marsam, 2011
+
+OCLC # = 826452196.
+CALL # = PJ7960.A42 J87 2012.
+AUTHOR =  Raʼfat, Naṣr
+TITLE =  al-Jūrnāljī : riwāyah / Naṣr Raʼfat
+IMPRINT =  al-Qāhirah : Markaz al-Ḥaḍārah al-ʻArabīyah, 2012
+
+OCLC # = 825557065.
+CALL # = PJ7962.A3528 R54 2012.
+AUTHOR =  Ṣādiq, Usāmah ʻAlī, 1944- author
+TITLE =  Riḥlat al-alf yawm : riwāyah ḥaqīqīyah / Usāmah ʻAlī al-Ṣādiq
+IMPRINT =  [Cairo] : Usāmah ʻAlī al-Ṣādiq, 2012
+
+OCLC # = 784400921.
+CALL # = PJ7962.H342 H36 2012.
+AUTHOR =  Shahām, Laṭīfah al-Rakhāʼ
+TITLE =  Hamsah fī ādhān al-rijāl : riwāyah / Laṭīfah al-Rakhāʼ Shahām
+IMPRINT =  al-Dār al-Bayḍāʼ : Afrīqiyā al-Sharq, c2012
+
+OCLC # = 826452031.
+CALL # = PJ7970.A53 A63 2012.
+AUTHOR =  Wakīl, Aḥmad
+TITLE =  ʻĀlam al-aḥlām : riwāyah / Aḥmad al-Wakīl
+IMPRINT =  [Cairo] : Dār Uktub lil-Nashr wa-al-Tawzīʻ, 2012
+
+OCLC # = 823253670.
+CALL # = PJ8006 .A63 2010.
+TITLE =  al-Adab al-Imārātī al-ḥadīth bi-aqlām Maghribīyah : nuqqād wa-kuttāb min al-Maghrib / iʻdād ʻAbd al-Raḥīm al-ʻAllām
+IMPRINT =  [Aṣīlah, Morocco] : Muʼassasat Muntadá Aṣīlah, 2010
+SUBJECT = Arabic literature United Arab Emirates History and criticism Congresses
+SUBJECT = Arabic literature 20th century History and criticism Congresses
+SUBJECT = Authors, Moroccan United Arab Emirates History and criticism Congresses
+
+OCLC # = 826008938.
+CALL # = PJ8227 .B56 2008.
+AUTHOR =  Bin Salīm, Aḥmad ʻImrān, author
+TITLE =  al-Maqālah al-adabīyah fī al-ṣiḥāfah al-Lībīyah, 1919-1969 : dirāsah tawṣīfīyah taḥlīlīyah naqdīyah / taʼlīf Aḥmad ʻImrān ibn Salīm
+IMPRINT =  Sirt : Majlis al-Thaqāfah al-ʻĀmm, 2008
+SUBJECT = Arabic literature Libya History and criticism
+SUBJECT = Arabic literature 19th century History and criticism
+
+OCLC # = 34549318.
+CALL # = PJ8232 .B56 1992.
+AUTHOR =  Bin Salīm, Aḥmad ʻImrān
+TITLE =  al-Maqālah fī Lībiyā : nashʼatuhā wa-taṭawwuruhā khilāla al-ʻAhd al-ʻUthmānī al-thānī, 1866-1911 : dirāsah fannīyah taḥlīlīyah naqdīyah / Aḥmad ʻImrān ibn Salīm
+IMPRINT =  Banghāzī : Jāmiʻat Qāryūnis, 1992
+SUBJECT = Arabic essays Libya History and criticism
+SUBJECT = Arabic essays 19th century History and criticism
+SUBJECT = Arabic essays 20th century History and criticism
+
+OCLC # = 824737610.
+CALL # = PJ8281 .H33 2011.
+AUTHOR =  Ḥabīb, Muḥammad, 1922- author
+TITLE =  Muqaddimāt ḥawla al-adab al-Maghribī / Muḥammad al-Ḥabīb al-Furqānī
+IMPRINT =  al-Dār al-Bayḍāʼ : Ittiṣṣālāt Sabū ; Marrākish : Muntadá ibn Tāshfīn, [2011]
+SUBJECT = Arabic literature Morocco History and criticism
+
+OCLC # = 824512465.
+CALL # = PJ8290 .F37 2011.
+AUTHOR =  Farrāʻ, Saʻīd, author
+TITLE =  al-Shiʻr al-Maghribī al-muʻāṣir wa-asʼilat al-talaqqī / Saʻīd al-Farrāʻ
+SUBJECT = [Fès?] : [publisher not identified], [2011]
+IMPRINT =  Fās : Maṭbaʻat Ānfū-Brānt, [2011]
+SUBJECT = Arabic poetry Morocco History and criticism
+SUBJECT = Arabic poetry 20th century History and criticism
+
+OCLC # = 823745597.
+CALL # = PJ8292 .S27 2010.
+TITLE =  al-Sard wa-al-ḥikāyah : qirāʼāt fī al-riwāyah al-Maghribīyah / tansīq Shuʻayb Ḥalīfī
+IMPRINT =  al-Dār al-Bayḍāʼ : Manshūrāt al-Mukhtabarāt, Mukhtabar al-Sardīyāt, 2010
+SUBJECT = Arabic fiction Morocco History and criticism
+
+OCLC # = 823650856.
+CALL # = PJ8292 .T34 2010.
+TITLE =  Taḥawwulāt al-qiṣṣah al-ḥadīthah bi-al-Maghrib : aʻmāl muhdāt ilá al-ustādh Aḥmad al-Yabūrī / iʻdād Majmūʻat al-Baḥth fī al-Qiṣṣah al-Qaṣīrah bi-al-Maghrib
+IMPRINT =  al-Dār al-Bayḍāʼ : Manshūrāt al-Mukhtabarāt, Mukhtabar al-Dirāsāt Ḥawla al-Qiṣṣah wa-al-Tarjamah, 2010
+SUBJECT = Short stories, Arabic Morocco History and criticism
+SUBJECT = Short stories, Arabic History and criticism
+SUBJECT =  Yabūrī, Aḥmad
+
+OCLC # = 706964925.
+CALL # = PJ8292 .T356 2010.
+AUTHOR =  Tamārah, ʻAbd al-Raḥmān, 1975-
+TITLE =  Jamālīyat al-naṣṣ al-qiṣaṣī al-Maghribī al-rāhin / ʻAbd al-Raḥmān al-Tamārah
+IMPRINT =  [Rabat?] : Wizārat al-thaqāfah, 2010
+SUBJECT = Short stories, Arabic Morocco History and criticism
+SUBJECT = Arabic fiction Morocco History and criticism
+SUBJECT = Arabic fiction 20th century History and criticism
+
+OCLC # = 824454849.
+CALL # = PN98.W64 M83 2012.
+AUTHOR =  Mudghirī, Naʻīmah Hudá, author
+TITLE =  Nisāʼ ʻalá al-maḥakk / Naʻīmah Hudá al-Mudghirī
+IMPRINT =  al-Rabāṭ : Dār al-Amān, 2012
+SUBJECT = Women critics Arab countries
+SUBJECT = Literature Women authors History and criticism Theory, etc
+SUBJECT = Women authors, Arab History and criticism
+
+OCLC # = 826024535.
+CALL # = PN99.A65 H87 2008.
+AUTHOR =  Ḥusayn, Naṣr al-Dīn Ibrāhīm Aḥmad, 1956-
+TITLE =  al-Naqd fī al-ʻaṣr al-jāhilī bayna al-dhātīyah wa-al-mawḍūʻīyah / al-Duktūr Naṣr al-Dīn Ibrāhīm Aḥmad Ḥusayn
+IMPRINT =  Kuwālā Lambūr : al-Jāmiʻah al-Islāmīyah al-ʻĀlamīyah bi-Mālīziyā, 2008
+SUBJECT = Criticism Arab countries
+SUBJECT = Arabic literature To 622 History and criticism
+
+OCLC # = 824923070.
+CALL # = PN1993.5.E3 Q27 2012.
+AUTHOR =  Qāsim, Maḥmūd, author
+TITLE =  al-Fīlm al-siyāsī fī Miṣr / Maḥmūd Qāsim
+IMPRINT =  al-Qahirah : Hayʼah al-Miṣrīyah al-ʻĀmmah lil-Kitāb, 2012
+SUBJECT = Motion pictures Political aspects Egypt
+SUBJECT = Politics in motion pictures
+
+OCLC # = 793690112.
+CALL # = PN1993.5.M8 A84 2012.
+AUTHOR =  Ashūwīkah, Muḥammad, 1971-
+TITLE =  al-Sīnimā al-Maghribīyah : rihānāt al-ḥadāthah wa-waʻy al-dhāt / Muḥammad Ashūwīkah
+IMPRINT =  al-Rabāṭ : Dār al-Tawḥīdī lil-Nashr wa-al-Tawzīʻ wa-Wasāʼiṭ al-Ittiṣāl, 2012
+SUBJECT = Motion pictures Morocco History
+
+OCLC # = 824457403.
+CALL # = PN1995.9.D6 M37 2011.
+AUTHOR =  Masʻūdī, Bū Shuʻayb, 1957- author
+TITLE =  al-Wathāʼiqī aṣl al-sīnimā / Bū Shuʻayb al-Masʻūdī
+SUBJECT = [Morocco] : [publisher not identified], 2011
+IMPRINT =  [Kharībkah] : Maṭbaʻat Warrāqat al-Muttaḥidah Kharībkah, 2011
+SUBJECT = Documentary films
+SUBJECT = Documentary mass media
+SUBJECT = Documentary films Arab countries
+SUBJECT = Documentary mass media Arab countries
+
+OCLC # = 824457926.
+CALL # = PN5499.M8 A43 2011.
+AUTHOR =  ʻAlawī, Muṣṭafá, author
+TITLE =  Mudhakkirāt ṣiḥāfī wa-thalāthat mulūk / Muṣṭafá al-ʻAlawī
+IMPRINT =  [Rabat] : Akhbār al-Yawm, 2011
+SUBJECT =  al-Dār al-Bayḍāʼ : Maṭbaʻat al-Najāḥ al-Jadīdah, 2011
+SUBJECT =  ʻAlawī, Muṣṭafá
+SUBJECT = Journalists Morocco Biography
+SUBJECT = Morocco Politics and government Biography
+
+OCLC # = 824362602.
+CALL # = R128.3 .S25 2011.
+AUTHOR =  Ṣāliḥī, Abū al-ʻAbbās Sīdī Aḥmad bin Ṣāliḥ, 1624-1731, author
+TITLE =  al-Hadīyah al-maqbūlah fī al-ṭibb / min naẓm wa-taʼlīf Abī al-ʻAbbās Sīdī Aḥmad bin Ṣāliḥ al-Ṣāliḥī al-Idrīsī al-Laktāwī al-Darʻī ; iʻdād wa-taqdīm Mawlāy al-Mahdī bin ʻAlī al-Ṣāliḥī
+IMPRINT =  Warzāzāt : Muʼassasat al-Furāt lil-Taʻlīm al-Khāṣṣ, 2011
+SUBJECT = Medicine, Arab
+
+OCLC # = 774127818.
+CALL # = S441 .B35 2011.
+AUTHOR =  Balqazīz, Muḥammad bin ʻAbd al-Jalīl
+TITLE =  Ḥaḍārah wa-thaqāfah ʻabra iʻtimāl al-arḍ wa-tarbiyat al-māshīyah bi-ṭarīqat al-taʼthīl / Muḥammad bin ʻAbd al-Jalīl Balqazīz
+IMPRINT =  [Casablanca : s.n.], 2011 (al-Dār al-Bayḍāʼ : Maṭbaʻat al-Najāḥ al-Jadīdah)
+SUBJECT = Agriculture Terminology
+SUBJECT = Livestock Terminology
+SUBJECT = Land use Terminology
+SUBJECT = Arabs Agriculture Terminology
+SUBJECT = Arabic language Terms and phrases
+SUBJECT = Arabic language Word formation
+VOLUME = v.3
+VOLUME = v.2
+VOLUME = v.1
+
+OCLC # = 820131674.
+CALL # = Z6620.M6 M86 2011.
+AUTHOR =  Murābiṭī, Saʻīd
+TITLE =  Fihris makhṭūṭāt Maktabat Kullīyat al-Ādāb wa-al-ʻUlūm al-Insānīyah bi-al-Rabāṭ / iʻdād Saʻīd li-Murābiṭī
+IMPRINT =  [al-Rabāṭ] : Kullīyat al-Ādāb wa-al-ʻUlūm al-Insānīyah bi-al-Rabāṭ, 2011
+SUBJECT = Manuscripts, Arabic Morocco Rabat Catalogs
+
+OCLC # = 16105199.
+CALL # = B741 .N39 1979.
+AUTHOR =  Naysābūrī, Saʻīd ibn Muḥammad, active 10th century-11th century
+TITLE =  al-Masāʼil fī al-khilāf bayna al-Baṣrīyīn wa-al-Baghdādīyīn / li-Abī Rashīd al-Nīsābūrī al-Muʻtazilī Saʻīd ibn Muḥammad ibn Saʻīd ; taḥqīq wa-taqdīm Maʻan Ziyādah, Raḍwān al-Sayyid
+IMPRINT =  Bayrūt ; Ṭarābulus, al-Jamāhīrīyah al-ʻArabīyah al-Lībīyah al-Shaʻbīyah al-Ishtirākīyah : Maʻhad al-Inmāʼ al-ʻArabī, 1979
+SUBJECT = Philosophy, Arab Early works to 1800
+SUBJECT = Islamic philosophy Early works to 1800
+SUBJECT = Motaziltes; biography
+
+OCLC # = 827739016.
+CALL # = G8311.E25 S83 2008 computer file.
+AUTHOR =  Sudan. Maktab Taʻdād al-Sukkān
+TITLE =  Natāʼij al-taʻdād al-Sukkānī al-khāmis 2008 = 5th Sudan population census 2008
+IMPRINT =  al-Jumhūrīyat al-Sūdān : Wizārat Riʼāsat Majlis al-Wuzarāʼ : al-Jihāz al-Markazī lil-Iḥṣāʼ, [2008]
+SUBJECT = Sudan Population
+SUBJECT = Sudan Census
+
+OCLC # = 824419965.
+CALL # = HQ18.M8 N3312 2011.
+AUTHOR =  Naamane-Guessous, Soumaya, author
+TITLE =  Au-delà de toute pudeur. Arabic
+TITLE =  Blā ḥushūmah : [al-jinsānīyah al-nisāʼīyah fī al-Maghrib] / Sumayah Naʻmān Jassūs
+IMPRINT =  al-Dār al-Bayḍāʼ : Markaz al-Thaqāfī al-ʻArabī, 2011
+SUBJECT = Sex customs Morocco
+SUBJECT = Muslim women Sexual behavior Morocco
+SUBJECT = Islamic marriage customs and rites Morocco
+
+OCLC # = 824456797.
+CALL # = PQ3989.2.B534 E8412 2012.
+AUTHOR =  Binebine, Mahi, author
+TITLE =  Étoiles de Sidi Moumen. Arabic
+TITLE =  Nujūm sīdī Mūmin : riwāyah / Māḥī Binbīn ; tarjamat Muḥammad al-Mazdīwī
+IMPRINT =  al-Dār al-Bayḍāʼ : Nashr al-Fanak, 2012
+

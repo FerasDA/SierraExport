@@ -1,0 +1,55 @@
+OCLC # = 853440199.
+CALL # = DT107.83 .J363 2013.
+TITLE =  Jamāl ʻAbd al-Nāṣir wa-ʻaṣrahu / taʼlīf lajnah min al-muʼarrikhīn al-Miṣrīyīn ; ishrāf wa-taqdīm ʻAdil Ghunaym
+IMPRINT =  al-Qāhirah : Dār al-Maʻārif, [2013]
+SUBJECT = Nasser, Gamal Abdel, 1918-1970
+SUBJECT = Presidents Egypt Biography
+SUBJECT = Egypt History 1952-1970
+SUBJECT = Egypt History Intervention, 1956
+
+OCLC # = 855694712.
+CALL # = HD1699.N5 A46 2011.
+TITLE =  al-Amn al-māʼī al-Miṣrī : al-wāqiʻ wa-al-mustaqbal / [al-mushārikūn] Ayman Sayyid ʻAbd al-Wahhāb ... [et al.] ; taḥrīr Muḥammad Sālimān Ṭāyiʻ
+IMPRINT =  [Cairo] : al-Majlis al-Miṣrī lil-Shuʼūn al-Khārijīyah, 2011
+SUBJECT = Water-supply Nile River Valley
+SUBJECT = Water resources development Nile River Valley
+
+OCLC # = 854985239.
+CALL # = JQ3898.H3 T43 2013.
+TITLE =  Thawrat 25 Yanāyir : ruʼyat Ḥizb al-ʻAmal
+IMPRINT =  [Cairo] : al-Markaz al-ʻArabī lil-Dirāsāt, [2013]
+SUBJECT =  Ḥizb al-ʻAmal al-Ishtirākī (Egypt)
+SUBJECT = Egypt History Protests, 2011-
+SUBJECT = Egypt Politics and government 21st century
+VOLUME = v.2
+VOLUME = v.1
+VOLUME = v.3
+
+OCLC # = 852260321.
+CALL # = PJ7862.A5684 S53 2012.
+TITLE =  al-Shāʻir Ḥilmī Sālim : fitnat al-tajrīb wa-ghiwāyat al-ḥadāthah / Maḥmūd Amīn al-ʻĀlam ... [et al.] ; [taḥrīr Ḥasan Ṭilib]
+IMPRINT =  [Cairo] : Ibdāʻ, 2012
+SUBJECT =  Sālim, Ḥilmī Criticism and interpretation
+SUBJECT = Arabic poetry Egypt History and criticism
+SUBJECT = Arabic poetry 20th century History and criticism
+
+OCLC # = 856916201.
+CALL # = PN4784.T4 A43 2010.
+TITLE =  al-Aʻmāl al-maydānīyah fī al-akhbār al-tilifizyūnīyah al-ʻArabīyah wa-ashkāl al-tafāʻilīyah al-jadīdah / ashrafa ʻalá al-dirāsah D. al-Munṣaf al-ʻAyyārī ; shāraka fī al-dirāsah Muḥammad Shaṭṭāḥ, Bilāl Dīb
+IMPRINT =  [Tūnis] : Jāmiʻat al-Duwal al-ʻArabīyah, Ittiḥād Idhāʻāt al-Duwal al-ʻArabīyah, 2010
+SUBJECT = Television broadcasting of news Study and teaching Arab countries
+
+OCLC # = 856984067.
+CALL # = Q41 .T36 1900z.
+TITLE =  al-Taqaddum fī al-ʻulūm / [majmūʻah min al-muʼallifīn]
+SUBJECT = [S.l. : s.n., 19--]
+SUBJECT = Royal Society (Great Britain)
+SUBJECT = Science Great Britain History
+
+OCLC # = ssj0000936807.
+CALL # = S544.5.A65.
+TITLE =  Arab Universities journal of agricultural sciences (Online : Serials Solutions)
+TITLE =  Arab Universities journal of agricultural sciences [electronic resource]
+IMPRINT =  Cairo, Egypt : Arab Universities Union of Agricultural Sciences
+SUBJECT = Agriculture Research Arab countries Periodicals
+
